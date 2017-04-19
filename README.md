@@ -1,11 +1,8 @@
-# Watson Language Translator Tool
+# Language Translator Tooling [![Build Status](https://travis-ci.org/watson-developer-cloud/language-translator-tooling.svg?branch=master)](https://travis-ci.org/watson-developer-cloud/language-translator-tooling)
 
 #### demo:https://language-translator-tooling.mybluemix.net/login
 
-
-[![Build Status](https://travis-ci.org/watson-developer-cloud/language-translator-tooling.svg?branch=master)](https://travis-ci.org/watson-developer-cloud/language-translator-tooling)
-
-Watson Language Translator Tool allows users to model and train the [Watson Translator](https://console.ng.bluemix.net/catalog/services/language-translator/) service instances. This is for customizing the watson instances further to its basic translation abilities.
+This web application allows users to model and train [Language Translator](https://console.ng.bluemix.net/catalog/services/language-translator/) service instances.
 
 Please refer to the [Language Translator documentation](https://www.ibm.com/watson/developercloud/doc/language-translator/index.html) to understand how to create taxonomy models and use this tool.
 
