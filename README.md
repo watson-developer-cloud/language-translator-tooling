@@ -1,10 +1,13 @@
 # Watson Language Translator Tool
 
-[![Build Status](https://travis.ibm.com/WatsonTooling/ibmwatson-lt-ui.svg?token=B7Y1SpycTfLEEa2GTrnZ&branch=open-source)](https://travis.ibm.com/WatsonTooling/ibmwatson-lt-ui)
+#### demo:https://language-translator-tooling.mybluemix.net/login
+
+
+[![Build Status](https://travis-ci.org/watson-developer-cloud/language-translator-tooling.svg?branch=master)](https://travis-ci.org/watson-developer-cloud/language-translator-tooling)
 
 Watson Language Translator Tool allows users to model and train the [Watson Translator](https://console.ng.bluemix.net/catalog/services/language-translator/) service instances. This is for customizing the watson instances further to its basic translation abilities.
 
-Please refer to [Watson Tooling document](http://www.ibm.com/watson/developercloud/doc/language-translator/tooling.shtml) to understand the modelling and usage of Watson tool.
+Please refer to the [Language Translator documentation](https://www.ibm.com/watson/developercloud/doc/language-translator/index.html) to understand how to create taxonomy models and use this tool.
 
 ## Requirements
 
@@ -40,8 +43,3 @@ Fetch the credentials from Watson Tranlator instance created on Bluemix to log i
         │   └── local.env.js    - Keep our environment variables out of source control
         │   └── environment     - Configuration specific to the node environment
         └── views               - Server rendered views
-
-**Contacts**
-
-* Steven R Loomis  : srloomis@us.ibm.com 1-720-342-4930
-* Parth Gaglani : gaglani@ca.ibm.com 647-770-9365
