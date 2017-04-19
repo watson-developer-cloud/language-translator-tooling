@@ -1,0 +1,61 @@
+/**
+ * Copyright 2015 IBM Corp.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ **/
+
+.ibm-wrapper-log_in {
+  max-width: 650px;
+  margin: 20vh auto 1em auto;
+  padding-bottom: 2em;
+}
+
+@media (max-width: 650px) {
+    .ibm-wrapper-log_in {
+        margin-top: 1em;
+    }
+}
+
+.log-in_title {
+  margin-top: 0;
+}
+
+.log-in_panel {
+  background-color: #fff;
+  width: 100%;
+  padding: 2.5em 2.5em 1em 2.5em;
+  margin-bottom: 2em;
+  text-align: center;
+}
+
+.login-box {
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.log-in_form {
+  margin-bottom: 2em;
+}
+
+.log-in_button {
+  float: right;
+}
+
+.log-in_panel .ibm {
+  font-size: 1em;
+  color: #325C80;
+  vertical-align: middle;
+  margin: 0 0.3em;
+}

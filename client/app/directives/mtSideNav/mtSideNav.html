@@ -1,0 +1,17 @@
+<nav role="navigation" aria-label="{{'navigation-menu' | translate}}">
+    <button type="button" role="button" ng-click="toggleMenu()" title="{{'header-nav-menu-open'}}"><img aria-hidden="true" alt="{{'header-nav-menu-open'}}" src="../assets/images/menu.svg"/></button>
+    <ul role="menu" ng-if="mtSideNavOpen">
+        <li ng-class="[{'active': location('projects')}]">
+            <a role="menuitem" href="projects" ng-click="toggleMenu()">{{'header-projects' | translate}}</a>
+        </li>
+        <li ng-class="[{'active': location('test')}]">
+            <a role="menuitem" href="test" ng-click="toggleMenu()">{{'header-translate' | translate}}</a>
+        </li>
+        <li>
+            <a role="menuitem" href="{{forumURL}}" target="_blank" ng-click="toggleMenu()">{{'header-help' | translate}}</a>
+        </li>
+        <li>
+            <a role="menuitem" ng-click="logout()" href="#">{{'header-logout' | translate}}</a>
+        </li>
+    </ul>
+</nav>

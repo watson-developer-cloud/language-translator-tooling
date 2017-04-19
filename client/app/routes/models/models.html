@@ -1,0 +1,312 @@
+<div class="loading" ng-show="loading"></div>
+
+<div class="left-panel" ng-show="!loading">
+  <div class="sidebar ibm-sidebar ibm-sidebar--dark">
+    <!-- Menu for screens > 770px -->
+    <div class="expanded-menu">
+      <div class="nav nav-sidebar ibm-sidebar__group">
+        <div class="add-model-container">
+          <h5>{{'models' | translate}}</h5>
+          <button role="button" class="base--button" ng-click="newModel()" type="submit" aria-label="{{'models-add' | translate}}"><span class="ibm ibm-glyph--add" aria-hidden="true"></span>{{'model' | translate}}</button>
+      </div>
+    </div>
+      <div class="scroll-box">
+        <ul class="nav nav-sidebar ibm-sidebar__group">
+          <li ng-repeat="model in models | orderBy:'-status_date'" ng-click="select(model)" ng-class="{'active ibm-sidebar__item--active' : isSelected(model)}">
+            <a href="#" class="model">
+              <span class="screen-reader-only">{{'model' | translate}}</span>
+              <span ng-if="model.name" class="model-name" title="{{model.name}}">{{model.name}}</span>
+              <span ng-if="!model.name" class="model-name">{{'model-untitled' | translate}}</span>
+              <span class="screen-reader-only" ng-if="isSelected(model)">{{'model-currently-selected' | translate}}</span>
+              <span class="status" ng-class="[statusClass(model.status, true)]">
+                {{'status-' + model.status | translate}}
+                <div class="training-animation" ng-if="model.status === statuses.training">
+                  <div class="cell">
+                    <div class="gmb-loader">
+                      <div></div>
+                      <div></div>
+                      <div></div>
+                    </div>
+                  </div>
+                </div>
+              </span>
+            </a>
+            <span class="screen-reader-only" ng-if="isSelected(model)"><a href="#details">{{'models-skip-to-details' | translate}}</a></span>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Menu for screens < 770px -->
+    <ul class="nav nav-sidebar ibm-sidebar__group collapsed-menu">
+      <li class="active ibm-sidebar__item--active" ng-show="!showModelsList">
+        <a href="#" class="model">
+          <span class="screen-reader-only">{{'model' | translate}}</span>
+          <span ng-if="model.name" class="model-name" title="{{selectedModel.name}}">{{selectedModel.name}}</span>
+          <span ng-if="!model.name" class="model-name">{{'model-untitled' | translate}}</span>
+          <span class="screen-reader-only" ng-if="isSelected(model)">{{'model-currently-selected' | translate}}</span>
+          <span class="ibm ibm-glyph--right expand-models float-right" aria-hidden="true" ng-show="!showModelsList" ng-click="toggleModels()"></span>
+          <span class="status" ng-class="[statusClass(selectedModel.status)]">
+            {{'status-' + selectedModel.status | translate}}
+            <div class="training-animation" ng-if="selectedModel.status === statuses.training">
+              <div class="cell">
+                <div class="gmb-loader">
+                  <div></div>
+                  <div></div>
+                  <div></div>
+                </div>
+              </div>
+            </div>
+          </span>
+        </a>
+        <span class="screen-reader-only" ng-if="isSelected(model)"><a href="#details">{{'models-skip-to-details' | translate}}</a></span>
+      </li>
+      <li ng-repeat="model in models | orderBy:'-status_date'" ng-click="select(model)" ng-class="{'active ibm-sidebar__item--active' : isSelected(model)}" ng-show="showModelsList">
+        <a href="#">
+          <span class="screen-reader-only">{{'model' | translate}}</span>
+          <span ng-if="model.name" class="model-name" title="{{model.name}}">{{model.name}}</span>
+          <span ng-if="!model.name" class="model-name">{{'model-untitled' | translate}}</span>
+          <span class="screen-reader-only" ng-if="isSelected(model)">{{'model-currently-selected' | translate}}</span>
+          <span class="ibm ibm-glyph--down expand-models float-right" aria-hidden="true" ng-show="$index === 0 && showModelsList" ng-click="toggleModels()"></span>
+          <span class="status" ng-class="[statusClass(model.status, true), {'indented-status': $index !== 0}]">
+            {{'status-' + model.status | translate}}
+            <div class="training-animation" ng-if="model.status === statuses.training">
+              <div class="cell">
+                <div class="gmb-loader">
+                  <div></div>
+                  <div></div>
+                  <div></div>
+                </div>
+              </div>
+            </div>
+          </span>
+        </a>
+        <span class="screen-reader-only" ng-if="isSelected(model)"><a href="#details">{{'models-skip-to-details' | translate}}</a></span>
+      </li>
+      <li class="add-model-container">
+        <button role="button" class="base--button" ng-click="newModel()" type="submit"><span class="ibm ibm-glyph--add" aria-hidden="true"></span> Add</button>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="main-content" ng-show="!loading" id="details">
+  <div class="top-content-wrapper">
+    <div class="header-wrapper" ng-class="{'wide-header-wrapper': selectedModel.status === statuses.training}">
+      <div class="translate-breadcrumb">
+        <a href="projects"><span class="blue">{{'projects' | translate}}</span></a><span class="breadcrumb-delimiter">/</span><span class="black">{{selectedModel.project || '-'}}</span>
+      </div>
+
+      <div class="sub-header-wrapper" ng-show="!selectedModel.newModel && !selectedModel.unconfirmed && !selectedModel.editName">
+        <h1 class="display-inline"><span class="screen-reader-only">{{'model' | translate}}</span><span>{{selectedModel.name}}</span></h1>
+        <button type="button" role="button" class="icon" title="{{'model-edit-name' | translate}}" aria-label="{{'model-edit-name' | translate}}" ng-show="!selectedModel.editDesc" ng-click="edit(editProperties.name)" title="{{'model-edit-name' | translate}}">
+            <span class="ibm ibm-glyph--edit" aria-hidden="true"></span>
+        </button>
+      </div>
+
+      <div class="sub-header-wrapper" ng-show="selectedModel.newModel || selectedModel.unconfirmed || selectedModel.editName">
+        <form class="edit-name_form" ng-submit="confirmModel(true)">
+          <input id="model-name-input" type="text" class="new-model-input" ng-model="selectedModel.name" ng-blur="confirmModel(true)" ng-change="checkName()" placeholder="{{'model-enter-name' | translate}}" aria-label="{{'model-enter-name' | translate}}" focus-me="selectedModel.newModel || selectedModel.unconfirmed || selectedModel.editName" popover="{{'model-name-required' | translate}}" popover-placement="right" popover-is-open="!selectedModel.name || selectedModel.name == ''" popover-trigger="none">
+          <input type="submit" class="hidden"/>
+        </form>
+
+        <span ng-if="selectedModel.editName" ng-class="{'error-helper-text': hasNameError()}" class="small helper-text">{{editHelperText}}</span>
+      </div>
+    </div>
+
+    <div class="buttons-wrapper">
+
+          <button type="button" role="button" ng-show="selectedModel.status !== statuses.training && selectedModel.status !== statuses.trained" class="btn ibm-btn--large" ng-disabled="disableButton('train') || selectedModel.editName" ng-class="{'ibm-btn--disabled': disableButton('train') || selectedModel.editName, 'disabled':  disableButton('train') || selectedModel.editName}" ng-click="trainModel(selectedModel)"><span>{{'model-train' | translate}}</span></button>
+          <button type="button" role="button" ng-show="selectedModel.status === statuses.training" class="btn ibm-btn--secondary ibm-btn--large" ng-class="{'ibm-btn--disabled': selectedModel.trained_model_id === 'UNTRAINED', 'disabled': selectedModel.trained_model_id === 'UNTRAINED'}" ng-click="cancelTraining(selectedModel)"><span>{{'model-cancel-training' | translate}}</span></button>
+          <button type="button" role="button" ng-show="selectedModel.status === statuses.trained" class="btn ibm-btn--secondary ibm-btn--large" title="{{'model-clone-description' | translate}}" ng-click="clone(selectedModel)"><span>{{'model-clone' | translate}}</span></button>
+
+      <div class="row clone-delete_spacing">
+        <button type="button" role="button" class="first btn ibm-btn--link" ng-show="selectedModel.status !== statuses.trained" ng-click="clone(selectedModel)" ng-disabled="disableButton('clone') || selectedModel.newModel || selectedModel.editName" ng-class="{disabled: disableButton('clone') || selectedModel.newModel || selectedModel.editName}">
+            <span title="{{'model-clone-description' | translate}}">{{'model-clone' | translate}}</span>
+        </button><button type="button" role="button" class="btn ibm-btn--link" ng-class="{disabled: disableButton('delete') || selectedModel.newModel || selectedModel.editName}" ng-disabled="disableButton('delete') || selectedModel.newModel || selectedModel.editName" ng-click="deleteModel(selectedModel)">
+            <span>{{'model-delete' | translate}}</span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <div class="row model-row">
+    <div class="model-info-config--column-1 layout-vertical">
+      <div class="model-info-header">
+        <h2>{{'model-documents' | translate}}
+            <span ng-show="selectedModel.files.length == 1" class="ibm-text--light">{{'model-documents-count-singular' | translate}}</span>
+            <span ng-show="selectedModel.files.length > 1" class="ibm-text--light">{{'model-documents-count' | translate:selectedModel.files}}</span>
+        </h2>
+      </div>
+
+      <div class="model-info-body" ng-class="{'flex': !selectedModel.files || selectedModel.files.length == 0}" ng-show="!loadingDocuments">
+        <div ng-show="!(selectedModel.status === statuses.training || selectedModel.status === statuses.trained || selectedModel.newModel)">
+          <p>{{'model-upload-description' | translate}}</p>
+          <p>{{'model-supported-file-types' | translate}} <a class="ibm-link" href="https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/language-translator/customizing.shtml#structure" target="_blank">{{'model-learn-more' | translate}}</a></p>
+        </div>
+
+        <mt-dropbox ng-show="!(selectedModel.status === statuses.training || selectedModel.status === statuses.trained || selectedModel.status === statuses.warning || selectedModel.newModel || selectedModel.editName)"></mt-dropbox>
+
+        <div class="message-box" ng-show="selectedModel.status === statuses.training">
+            <div>{{'model-document-upload-disabled-training' | translate}}</div>
+        </div>
+
+        <mt-alert scope="upload" alert-object="alert"></mt-alert>
+
+        <p class="helper-text-border" ng-show="selectedModel.newModel">{{'model-need-valid-model-name' | translate}}</p>
+        <p class="helper-text-border" ng-show="selectedModel.status === statuses.training">{{'train-request-queued' | translate}}</p>
+        <p class="helper-text-border" ng-show="selectedModel.status === statuses.trained">{{'model-no-retrain' | translate}}</p>
+      </div>
+
+      <div class="loading flex" ng-show="loadingDocuments"></div>
+
+      <div class="model-info-body flex" ng-if="!loadingDocuments && selectedModel.files.length > 0">
+          <div class="table-body">
+            <table class="table ibm-table header-table" ng-class="{'read-only': selectedModel.status === statuses.trained || selectedModel.status === statuses.training || selectedModel.status === statuses.warning}">
+              <thead>
+                <tr>
+                  <th class="model-info-header file-name-row"><h5>{{'model-document-name' | translate}}</h5></th>
+                  <th class="model-info-header file-date-row"><h5>{{'model-document-date' | translate}}</h5></th>
+                  <th class="model-info-header file-option-row"><h5>{{'model-document-type' | translate}}</h5></th>
+                  <th class="model-info-header file-delete-row"></th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="model-file-row" ng-repeat="file in selectedModel.files" ng-mouseenter="showBin = true" ng-mouseleave="showBin = false">
+                  <td>
+                      <div class="inline-label">{{'model-document-name' | translate}}</div>
+                      <div class="display-inline">{{file.name}}</div>
+                  </td>
+                  <!-- During upload -->
+                  <td colspan="3" class="file-date-row" ng-if="file.progress >= 0 && file.progress <= 100">
+                      <span class="ng-hide" id="progressbar">{{'model-document-upload-progress' | translate:file}}</span>
+                      <progressbar class="file-progress-bar" value="file.progress"></progressbar>
+                  </td>
+
+              <!-- After upload -->
+              <td ng-if="!file.progress && file.progress !== 0">
+                <!-- <progressbar class="file-progress-bar" ng-show="file.progress >= 0" value="file.progress"></progressbar> -->
+                  <div class="inline-label">{{'model-document-date' | dateFormat}}</div>
+                  <div class="file-last-modified display-inline" ng-show="!(file.progress || file.progress === 0)">{{file.lastModified || "--" | dateFormat}}</div>
+              </td>
+              <td ng-if="!file.progress && file.progress !== 0">
+                  <div class="inline-label">{{'model-document-type' | translate}}</div>
+                  <div class="display-inline">{{'model-document-' + file.option | translate}}</div>
+              </td>
+              <td class="file-delete-row" ng-if="!file.progress && file.progress !== 0">
+                <button type="button" role="button" class="icon float-right" title="{{'model-document-delete' | translate}}" aria-label="{{'model-document-delete' | translate}}" ng-click="deleteFile(file, selectedModel)" ng-class="{'invisible': !showBin || (selectedModel.status === 'TRAINING' || selectedModel.status === 'TRAINED') || (file.progress || file.progress === 0)}">
+                    <span aria-hidden="true" class="ibm ibm-icon--delete"></span>
+                </button>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        </div>
+        <p class="helper-text-border" ng-show="uploadingFiles">{{'model-document-upload-in-progress' | translate}}</p>
+      </div>
+
+      <div class="run-translation-link">
+        <span class="ibm ibm-glyph--forward" aria-hidden="true"></span> <a class="ibm-link" href="test/{{selectedModel.name}}">{{'model-run-translation' | translate}}</a>
+      </div>
+    </div>
+
+    <div class="model-info-config--column-2">
+      <div class="row">
+        <div class="model-info-header layout">
+          <h5 class="flex">
+            {{'model-description' | translate}}
+          </h5>
+          <button type="button" role="button" class="icon" ng-if="!(selectedModel.editDesc || selectedModel.editName || selectedModel.newModel)" ng-click="edit(editProperties.desc)" title="{{'model-edit-description' | translate}}" aria-label="{{'model-edit-description' | translate}}">
+              <span class="ibm ibm-glyph--edit" aria-hidden="true"></span>
+          </button>
+          <span ng-if="editing.desc" class="small helper-text">{{editHelperText}}</span>
+        </div>
+
+        <div ng-if="!selectedModel.description && !selectedModel.editDesc" class="model-info-body empty-description">
+          {{'model-add-description' | translate}}
+        </div>
+
+        <div ng-if="selectedModel.description && !selectedModel.editDesc" class="model-info-body non-empty-description hyphenate">
+          {{selectedModel.description}}
+        </div>
+        <div ng-if="selectedModel.editDesc" class="model-info-descripton-box">
+          <textarea focus-me="selectedModel.editDesc" msd-elastic class="model-info-description form-control ibm-form__textarea" ng-model="selectedModel.description" enter-submit="confirmModel(true)" ng-blur="confirmModel(true)" placeholder="{{'model-enter-description' | translate}}"></textarea>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="model-info-header">
+          <h5>{{'model-base-model' | translate}}</h5>
+        </div>
+        <div class="model-info-body" ng-show="selectedModelDetails">
+          {{'project-translate-domain-from-to' | translate:selectedModelDetails}}
+        </div>
+      </div>
+
+      <div class="row model-info-row">
+        <div class="col-md-6 status-col">
+          <div class="model-info-header">
+            <h5>{{'model-status' | translate}}</h5>
+          </div>
+
+          <div class="model-info-body status selected-status" ng-class="[statusClass(selectedModel.status)]" title="{{getStatusDescription(selectedModel.status)}}">
+            {{'status-' + selectedModel.status | translate}}
+            <div class="training-animation" ng-if="selectedModel.status === statuses.training">
+              <div class="cell">
+                <div class="gmb-loader">
+                  <div></div>
+                  <div></div>
+                  <div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6">
+          <div class="model-info-header">
+            <h5>{{'model-last-modified' | translate}}</h5>
+          </div>
+          <div class="model-info-body">
+            {{'selectedModel.status_date' | lastUpdated}}
+          </div>
+        </div>
+      </div>
+
+      <div class="sticky-note error" ng-show="selectedModel.status === statuses.warning">
+          <div>
+              <div ng-show="trainingError">
+                  <p>{{'train-error-' + trainingError | translate}}</p>
+              </div>
+              <div>
+                  <div><a href="#" ng-click="resetModel()">{{'train-reset' | translate}}</a></div>
+                  <div>{{'train-reset-model-id' | translate}}</div>
+              </div>
+          </div>
+      </div>
+
+      <div class="row">
+        <div class="model-info-header">
+          <h5>{{'model-id' | translate}}</h5>
+        </div>
+        <div class="model-info-body model-sid">
+          <div ng-if="!selectedModel.trained_model_id" class="model-sid-num">{{'model-oops' | translate}}</div>
+          <div ng-if="selectedModel.trained_model_id == 'UNTRAINED'" class="model-sid-num">{{'model-untrained' | translate}}</div>
+          <div ng-if="selectedModel.trained_model_id && selectedModel.trained_model_id != 'UNTRAINED'" class="model-sid-num">{{selectedModel.trained_model_id | formatSID}}</div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="model-info-header">
+          <h5>{{'model-resources' | translate}}</h5>
+        </div>
+        <div class="model-info-body">
+          <ul>
+            <li><a href="https://console.ng.bluemix.net/catalog/language-translator/" class="ibm-link" target="_blank">{{'model-pricing-information' | translate}}</a></li>
+            <li><a href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/language-translator/customizing.shtml#structure" class="ibm-link" target="_blank">{{'model-glossary-template' | translate}}</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

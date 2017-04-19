@@ -1,0 +1,12 @@
+---
+# manifest.yml for mt-training
+# edit for your needs
+applications:
+- name: mt-training
+  instances: 5
+  framework: node
+  description: Your generator-angular-fullstack-bluemix project
+  memory: 512M
+  command: NODE_ENV=production node server/start.js
+  domain: mybluemix.net
+  host: mt-training

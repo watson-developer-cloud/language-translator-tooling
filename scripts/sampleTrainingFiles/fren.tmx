@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+ <header creationtool="mktmx" creationtoolversion="0.1" segtype="sentence" o-tmf="mktmx" adminlang="EN" srclang="fr" datatype="rtf" o-encoding="UTF-8" creationdate= "20010414T1523Z"/>
+ <body>
+
+        <tu tuid="1">
+            <tuv xml:lang="fr">
+            <seg>"déboursé"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"paid"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="fr">
+            <seg>"sauvées"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"rescued"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="fr">
+            <seg>"rapport"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"location"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="fr">
+            <seg>"blessant"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"wounding"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="fr">
+            <seg>"distribué"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"released"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="fr">
+            <seg>"acquérir"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"acquire"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="fr">
+            <seg>"le Pentagone"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"the Pentagon"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="fr">
+            <seg>"d'assurance"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"insurance"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="fr">
+            <seg>"prestigieux"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"prestigious"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="fr">
+            <seg>"indiquer"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"mean"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="fr">
+            <seg>"étoile"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"star"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="fr">
+            <seg>"fassions"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"teaming"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="fr">
+            <seg>"partageons"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"share"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="fr">
+            <seg>"Coran"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"Koran"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="fr">
+            <seg>"sinistrées"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"affected"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="fr">
+            <seg>"pourrait être"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"may be"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="fr">
+            <seg>"communauté humanitaire"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"humanitarian community"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="fr">
+            <seg>"bougé"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"moved"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="fr">
+            <seg>"cachées"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"concealed"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="fr">
+            <seg>"Sentinelle"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"Sentry"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="fr">
+            <seg>"procès"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"court"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="fr">
+            <seg>"antennes"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"antennas"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="fr">
+            <seg>"au-delà de"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"beyond"</seg>
+        </tuv>
+        </tu>
+        
+</body>
+</tmx>
+        

@@ -1,0 +1,162 @@
+<div class="loading" ng-show="loading"></div>
+
+<div id="test-left-panel" class="left-panel" ng-show="!loading">
+  <div class="sidebar ibm-sidebar ibm-sidebar--dark test-sidebar">
+
+    <h3 class="screen-reader-only">{{'test-select-model' | translate}}</h3>
+
+    <!-- Menu for screens > 770px -->
+    <div class="sidebar-filters">
+      <input type="text" ng-model="filterText" class="form-control ibm-form__search" placeholder="{{'test-filter' | translate}}" aria-label="{{'test-filter-models' | translate}}">
+    </div>
+
+    <div class="scroll-box expanded-menu">
+      <ul class="nav nav-sidebar ibm-sidebar__group" ng-repeat="project in projects | orderObjectBy:sortOption.field:sortOption.child:sortOption.reverse | filter:filterProject | filter:filterSelectedProject">
+        <li>
+          <h5>
+              <span class="screen-reader-only">{{'project' | translate}}</span><span>{{project.name}}</span></h5>
+        </li>
+        <li ng-repeat="model in project.models | filter:filterModel" ng-class="{'active ibm-sidebar__item--active' : isSelected(model)}">
+          <a class="test-model" href="#" ng-click="select(model)" >
+            <span class="screen-reader-only">{{'model' | translate}}</span>
+            <span ng-if="model.name" class="model-name" title="{{model.name}}">{{model.name}}</span>
+            <span ng-if="!model.name" class="model-name">{{'model-untitled' | translate}}</span>
+            <span class="screen-reader-only" ng-if="isSelected(model)">{{'model-currently-selected' | translate}}</span>
+            <span class="status" ng-class="[statusClass(model.status, true)]">
+              {{'status-' + model.status | translate}}
+              <div class="training-animation" ng-if="model.status === statuses.training">
+                <div class="cell">
+                  <div class="gmb-loader">
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                  </div>
+                </div>
+              </div>
+            </span>
+          </a>
+          <span class="screen-reader-only" ng-if="isSelected(model)"><a href="#test-main">{{'test-skip-to-test-model' | translate}}</a></span>
+        </li>
+      </ul>
+    </div>
+
+    <!-- Menu for screens < 770px -->
+    <div class="collapsed-menu">
+      <ul class="nav nav-sidebar ibm-sidebar__group" ng-show="!showModelsList">
+        <li class="active ibm-sidebar__item--active">
+          <a href="#">
+            <span class="screen-reader-only">{{'model' | translate}}</span>
+            <span ng-if="selectedModel.name" class="model-name" title="{{selectedModel.name}}">{{selectedModel.name}}</span>
+            <span ng-if="!selectedModel.name" class="model-name">{{'model-untitiled' | translate}}</span>
+            <span class="screen-reader-only" ng-if="isSelected(model)">{{'model-currently-selected' | translate}}</span>
+            <span class="ibm ibm-glyph--right expand-models float-right" aria-hidden="true" ng-show="!showModelsList" ng-click="toggleModels()"></span>
+            <span class="status" ng-class="[statusClass(model.status)]">
+              {{'status-' + model.status | translate}}
+              <div class="training-animation" ng-if="model.status === statuses.training">
+                <div class="cell">
+                  <div class="gmb-loader">
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                  </div>
+                </div>
+              </div>
+            </span>
+          </a>
+          <span class="screen-reader-only" ng-if="isSelected(model)"><a href="#test-main">{{'test-skip-to-test-model' | translate}}</a></span>
+        </li>
+      </ul>
+      <ul class="nav nav-sidebar ibm-sidebar__group" ng-if="showModelsList">
+        <li ng-repeat="project in projects | orderObjectBy:sortOption.field:sortOption.child:sortOption.reverse | filter:filterProject">
+            <h5>
+              <span class="screen-reader-only">{{'project' | translate}}</span>
+              <span>{{project.name}}</span>
+              <span class="ibm ibm-glyph--down expand-models float-right" aria-hidden="true" ng-show="$index === 0" ng-click="toggleModels()"></span>
+            </h5>
+            <ul ng-if="project.models">
+                <li ng-repeat="model in project.models | filter:filterModel" ng-click="select(model)" ng-class="{'active ibm-sidebar__item--active' : isSelected(model)}">
+                  <a class="test-model" href="#">
+                    <span ng-if="model.name" class="model-name" title="{{model.name}}">{{model.name}}</span>
+                    <span ng-if="!model.name" class="model-name">{{'model-untitiled' | translate}}</span>
+                    <span class="screen-reader-only" ng-if="isSelected(model)">{{'model-currently-selected' | translate}}</span>
+                    <span class="status" ng-class="[statusClass(model.status)]">
+                      {{'status-' + model.status | translate}}
+                      <div class="training-animation" ng-if="model.status === statuses.training">
+                        <div class="cell">
+                          <div class="gmb-loader">
+                            <div></div>
+                            <div></div>
+                            <div></div>
+                          </div>
+                        </div>
+                      </div>
+                    </span>
+                  </a>
+                  <span class="screen-reader-only" ng-if="isSelected(model)"><a href="#test-main">{{'test-skip-to-test-model' | translate}}</a></span>
+                </li>
+            </ul>
+          </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="main-content" ng-show="!loading" id="test-main">
+    <div class="row ibm-row translate-top-content">
+      <div class="translate-breadcrumb">
+        <h5><span>{{'project' | translate}}&nbsp;</span><span>{{selectedModel.project || '-'}}</span></h5>
+      </div>
+
+      <div class="translate-header">
+        <h1 ng-if="selectedModel.name"><span class="screen-reader-only">{{'model' | translate}}</span><span>{{selectedModel.name}}</span></h1>
+        <h1 ng-if="!selectedModel.name" class="model-name">{{'test-no-model-selected' | translate}}</h1>
+
+        <h2 ng-if="selectedModel">{{'project-translate-domain-from-to' | translate:selectedModelDetails}}</h2>
+      </div>
+    </div>
+
+  <div class="model-test-fullpage layout-vertical">
+      <div class="flex" ng-show="selectedModel.status != statuses.training && selectedModel.status != statuses.warning">
+        <div ng-show="!translation">
+          <textarea ng-show="!translating" rows="10" ng-model="textToTranslate" placeholder="{{'test-enter-text' | translate}}" aria-label="{{'test-text-to-translate' | translate}}" class="form-control ibm-form__textarea translation-text-area"></textarea>
+          <div class="loading" ng-show="translating"></div>
+          <div class="layout wrap">
+              <div class="flex helper-text-border">
+                  <div ng-show="selectedModel.status !== statuses.trained">{{'test-untrained-model-reminder' | translate}}</div>
+              </div>
+              <div>
+                  <button type="button" class="btn btn-primary ibm-btn ibm-btn--primary float-right" ng-click="translate(selectedModel)" ng-class="[{'ibm-btn--disabled': !textToTranslate || textToTranslate.length == 0}]" ng-disabled="!textToTranslate || textToTranslate.length == 0">{{'test-translate' | translate}}</button>
+                  <button type="button" class="btn ibm-btn ibm-btn--link ibm-btn--secondary float-right reset-btn" ng-class="[{'ibm-btn--disabled': !textToTranslate}]" ng-disabled="!textToTranslate || textToTranslate.length == 0" ng-click="clearTranslation()"><span>{{'test-clear' | translate}}</span></button>
+              </div>
+          </div>
+        </div>
+
+        <div ng-show="translation">
+          <div class="half-column source">
+            <div class="model-info-header">
+              {{selectedModel.source | toCountry}}
+            </div>
+
+            <div class="translation-text-area" aria-label="{{'test-source-text' | translate}}" lang="{{selectedModel.source}}"><pre>{{textToTranslate}}</pre></div>
+        </div><div class="half-column target">
+            <div class="model-info-header">
+              {{selectedModel.target | toCountry}}
+            </div>
+
+            <div class="translation-text-area" aria-label="{{'test-target-text' | translate}}" copy-to-clipboard lang="{{selectedModel.target}}">{{translation}}</div>
+
+            <button type="button" class="btn ibm-btn ibm-btn--link ibm-btn--secondary float-right" ng-click="resetTranslation()"><span>{{'test-reset' | translate}}</span></button>
+          </div>
+        </div>
+      </div>
+
+      <div class="message-box flex" ng-show="selectedModel.status == statuses.training || selectedModel.status == statuses.warning" >
+          <div data-ng-if="selectedModel.status == statuses.training">{{'test-training' | translate}}</div>
+          <div data-ng-if="selectedModel.status == statuses.warning">{{'test-training-has-failed' | translate}}</div>
+      </div>
+  </div>
+
+  <div class="view-model-link">
+      <span class="ibm ibm-glyph--forward" aria-hidden="true"></span> <a class="ibm-link" href="#" ng-click="viewModel()">{{'test-view-this-model' | translate}}</a>
+  </div>
+</div>

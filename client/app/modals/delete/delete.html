@@ -1,0 +1,34 @@
+<div class="modal-header" aria-labelledBy="modal-title">
+  <h3 id="modal-title" class="modal-title">
+    {{'model-delete' | translate}}
+  </h3>
+  <!-- <button type="button" role="button" class="icon" title="{{'cancel' | translate}}" aria-label="{{'cancel' | translate}}" ng-click="cancel()"><span class="ibm ibm-icon--close float-right"></span></button> -->
+</div>
+
+<div class="modal-body">
+  <h4 data-ng-if="objectType == 'PROJECT'">{{'project-delete-are-you-sure' | translate:deleted}}</h4>
+  <h4 data-ng-if="objectType == 'MODEL'">{{'model-delete-are-you-sure' | translate:deleted}}</h4>
+  <h4 data-ng-if="objectType == 'DOCUMENT'">{{'model-document-delete-are-you-sure' | translate:deleted}}</h4>
+  <div class="sticky-note warning">
+      <div aria-hidden="true">
+          <span class="fa fa-warning"></span>
+      </div>
+      <div>
+          <h3>{{'important' | translate}}</h3>
+      </div>
+      <div class="flex">
+          <div data-ng-if="objectType == 'PROJECT'">{{'project-delete-warning' | translate}}</div>
+          <div data-ng-if="objectType == 'MODEL'">{{'model-delete-warning' | translate}}</div>
+          <div data-ng-if="objectType == 'DOCUMENT'">{{'model-document-delete-warning' | translate}}</div>
+      </div>
+  </div>
+</div>
+
+<div class="modal-footer">
+  <button type="button" class="btn ibm-btn ibm-btn--link" ng-click="cancel()">
+    <span>{{'cancel' | translate}}</span>
+  </button>
+  <button type="button" class="btn btn-primary ibm-btn ibm-btn-primary" ng-click="delete()">
+    <span>{{'model-delete' | translate}}</span>
+  </button>
+</div>

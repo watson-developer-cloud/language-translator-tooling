@@ -1,0 +1,65 @@
+/**
+ * Copyright 2015 IBM Corp.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ **/
+
+mt-alert {
+}
+
+mt-alert .alert-box {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ECF0F2;
+    color: #464646;
+    border-left: 8px solid #ECF0F2;
+    padding: 1.5em;
+    box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.12);
+    font-family: "HelvNeueForIBM";
+}
+
+mt-alert[scope="global"] .alert-box {
+    max-width: 65%;
+}
+
+@media (max-width:768px) {
+    mt-alert[scope="global"] .alert-box {
+        max-width: 80%;
+    }
+}
+
+mt-alert > div.info {
+    border-color: #325C80;
+}
+
+mt-alert > div.warning {
+    border-color: #EFC100;
+}
+
+mt-alert > div.error {
+    border-color: #E71D32;
+}
+
+mt-alert .fa {
+    font-size: 32px;
+    color: #323C3C;
+}
+
+mt-alert > * {
+    padding: 10px;
+}
+
+mt-alert .alert-box > div:nth-child(even) {
+    margin: 0 10px 0 10px;
+}

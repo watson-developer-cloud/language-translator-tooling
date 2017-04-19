@@ -1,0 +1,9008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+ <header creationtool="mktmx" creationtoolversion="0.1" segtype="sentence" o-tmf="mktmx" adminlang="EN" srclang="pt" datatype="rtf" o-encoding="UTF-8" creationdate= "20010414T1523Z"/>
+ <body>
+
+  <tu tuid="1">
+   <tuv xml:lang="pt">
+    <seg>00: 00 - Etnodoc</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>left 1 of 3 right</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="2">
+   <tuv xml:lang="pt">
+    <seg>00: 00 - Etnodoc</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 128.0kb/s - 1.0MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="3">
+   <tuv xml:lang="pt">
+    <seg>00: 00 - Etnodoc</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 128.0kb/s - 1.3MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="4">
+   <tuv xml:lang="pt">
+    <seg>00: 00 - Etnodoc</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 128.0kb/s - 1.4MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="5">
+   <tuv xml:lang="pt">
+    <seg>00: 00 - Etnodoc</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 128.0kb/s - 1.8MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="6">
+   <tuv xml:lang="pt">
+    <seg>00: 00 - Etnodoc</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 128.0kb/s - 1.9MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="7">
+   <tuv xml:lang="pt">
+    <seg>00: 00 - Etnodoc</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 64.0kb/s - 1022.3kB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="8">
+   <tuv xml:lang="pt">
+    <seg>00: 00 - Etnodoc</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 64.0kb/s - 1.1MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="9">
+   <tuv xml:lang="pt">
+    <seg>00: 00 - Etnodoc</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 64.0kb/s - 1.3MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="10">
+   <tuv xml:lang="pt">
+    <seg>00: 00 - Etnodoc</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 64.0kb/s - 1.5MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="11">
+   <tuv xml:lang="pt">
+    <seg>00: 00 - Etnodoc</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 64.0kb/s - 1.6MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="12">
+   <tuv xml:lang="pt">
+    <seg>00: 00 - Etnodoc</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 64.0kb/s - 1.8MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="13">
+   <tuv xml:lang="pt">
+    <seg>00: 00 - Etnodoc</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 64.0kb/s - 1.9MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="14">
+   <tuv xml:lang="pt">
+    <seg>00: 00 - Etnodoc</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 64.0kb/s - 2.2MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="15">
+   <tuv xml:lang="pt">
+    <seg>00: 00 - Etnodoc</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 64.0kb/s - 2.6MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="16">
+   <tuv xml:lang="pt">
+    <seg>00: 00 - Etnodoc</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 64.0kb/s - 3.0MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="17">
+   <tuv xml:lang="pt">
+    <seg>0010260-65.2014.8.22.000, dia 15 de junho de 2015 .</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>— alfieGREEN (@ItsAlfieGreen) July 9, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="18">
+   <tuv xml:lang="pt">
+    <seg>00:29 Executivo da BMW desmaia no palco do Salão de Frankfurt Reuters</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>BMW CEO faints on stage at Frankfurt auto show</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="19">
+   <tuv xml:lang="pt">
+    <seg>00h00 • Ela está de volta!</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>She is such a strong lady .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="20">
+   <tuv xml:lang="pt">
+    <seg>00h00 • Ela está de volta!</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>She was in her 100s .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="21">
+   <tuv xml:lang="pt">
+    <seg>01 02 03 04 05</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-10T15:16:31-04:00 September 10, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="22">
+   <tuv xml:lang="pt">
+    <seg>01 02 04 05 07</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>: 12, 05 .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="23">
+   <tuv xml:lang="pt">
+    <seg>01 02 04 06 07</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-10T03:57:14-04:00 September 10, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="24">
+   <tuv xml:lang="pt">
+    <seg>01 02 05 06 08</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-10T03:57:14-04:00 September 10, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="25">
+   <tuv xml:lang="pt">
+    <seg>01 02 05 06 08</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-10T15:16:31-04:00 September 10, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="26">
+   <tuv xml:lang="pt">
+    <seg>01 02 05 06 08</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>September 20, 2015 — 12:00AM</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="27">
+   <tuv xml:lang="pt">
+    <seg>01 02 06 08 10</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-10T03:57:14-04:00 September 10, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="28">
+   <tuv xml:lang="pt">
+    <seg>01 03 05 10 11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 - 5 of 11</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="29">
+   <tuv xml:lang="pt">
+    <seg>01 04 05 07 10</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 (11 Sep 15)</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="30">
+   <tuv xml:lang="pt">
+    <seg>01 08 09 11 12</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>: 12, 22 .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="31">
+   <tuv xml:lang="pt">
+    <seg>01/08/2015 22:32:06 Em: Mais Esportes, Volei</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sports | Fri Aug 14, 2015 11:19am BST</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="32">
+   <tuv xml:lang="pt">
+    <seg>01/08/2015 22:32:06 Em: Mais Esportes, Volei</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sports | Fri Aug 7, 2015 10:00pm BST</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="33">
+   <tuv xml:lang="pt">
+    <seg>01/08/2015 22:32:06 Em: Mais Esportes, Volei</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sports | Tue Aug 11, 2015 10:04am BST</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="34">
+   <tuv xml:lang="pt">
+    <seg>01/08 – Jads e Jadson</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>($1 = 0.9070 euros)</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="35">
+   <tuv xml:lang="pt">
+    <seg>01/08 – Jads e Jadson</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 - 4 of 10</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="36">
+   <tuv xml:lang="pt">
+    <seg>01/08 – Jads e Jadson</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 - 5 of 11</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="37">
+   <tuv xml:lang="pt">
+    <seg>01/08 – Jads e Jadson</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>3 Uspenskaya Ploshchad. 485-325-1870 .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="38">
+   <tuv xml:lang="pt">
+    <seg>01/08 – Jads e Jadson</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>at Suzuka in 1990.</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="39">
+   <tuv xml:lang="pt">
+    <seg>01/08 – Jads e Jadson</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>© Copyright 1992-2015 .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="40">
+   <tuv xml:lang="pt">
+    <seg>01/08 – Jads e Jadson</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>He was 32 .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="41">
+   <tuv xml:lang="pt">
+    <seg>01/08 – Jads e Jadson</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>He was 49 .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="42">
+   <tuv xml:lang="pt">
+    <seg>01/08 – Jads e Jadson</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>— hitchBOT (@hitchBOT) 1 августа 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="43">
+   <tuv xml:lang="pt">
+    <seg>01/08 – Jads e Jadson</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>left 1 of 2 right</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="44">
+   <tuv xml:lang="pt">
+    <seg>01/08 – Jads e Jadson</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>left 1 of 30 right</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="45">
+   <tuv xml:lang="pt">
+    <seg>01/08 – Jads e Jadson</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>— nicolabanfoiegras (@nicolamacdona38) 24 июля 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="46">
+   <tuv xml:lang="pt">
+    <seg>01/08 – Jads e Jadson</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>on 10 minutes ago</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="47">
+   <tuv xml:lang="pt">
+    <seg>01/08 – Jads e Jadson</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>OnePlus One and OnePlus 2.</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="48">
+   <tuv xml:lang="pt">
+    <seg>01/10/2015 12:47:35 Em: Mais Esportes, Tênis</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>You are here: Home &gt; Sports &gt; Tennis</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="49">
+   <tuv xml:lang="pt">
+    <seg>· 01.10.2015 / atualizado às 00:08</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 00:08</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="50">
+   <tuv xml:lang="pt">
+    <seg>· 01.10.2015 / atualizado às 00:08</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 20:23</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="51">
+   <tuv xml:lang="pt">
+    <seg>· 01.10.2015 / atualizado às 00:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 00:08</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="52">
+   <tuv xml:lang="pt">
+    <seg>· 01.10.2015 / atualizado às 00:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 10:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="53">
+   <tuv xml:lang="pt">
+    <seg>· 01.10.2015 / atualizado às 00:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 12:56</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="54">
+   <tuv xml:lang="pt">
+    <seg>· 01.10.2015 / atualizado às 00:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 16:11</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="55">
+   <tuv xml:lang="pt">
+    <seg>· 01.10.2015 / atualizado às 00:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 20:23</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="56">
+   <tuv xml:lang="pt">
+    <seg>· 01.10.2015 / atualizado às 00:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 22:46</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="57">
+   <tuv xml:lang="pt">
+    <seg>· 01.10.2015 / atualizado às 11:15</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 16:11</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="58">
+   <tuv xml:lang="pt">
+    <seg>· 01.10.2015 / atualizado às 13:14</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 16:11</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="59">
+   <tuv xml:lang="pt">
+    <seg>· 01.10.2015 / atualizado às 15:09</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2 October 2015 Last updated at 19:53 BST</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="60">
+   <tuv xml:lang="pt">
+    <seg>· 01.10.2015 / atualizado às 17:59</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 18:42</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="61">
+   <tuv xml:lang="pt">
+    <seg>01 Agosto 2015 | 02h 01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>: 11, 01 .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="62">
+   <tuv xml:lang="pt">
+    <seg>01. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>02. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="63">
+   <tuv xml:lang="pt">
+    <seg>01. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>02. August 2015 - 12:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="64">
+   <tuv xml:lang="pt">
+    <seg>01. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>02. August 2015 - 14:16</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="65">
+   <tuv xml:lang="pt">
+    <seg>01. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>03. August 2015 - 15:16</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="66">
+   <tuv xml:lang="pt">
+    <seg>01. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>04. August 2015 - 13:33</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="67">
+   <tuv xml:lang="pt">
+    <seg>01. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>04. August 2015 - 19:10</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="68">
+   <tuv xml:lang="pt">
+    <seg>01. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. August 2015 - 10:20</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="69">
+   <tuv xml:lang="pt">
+    <seg>01. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. August 2015 - 15:05</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="70">
+   <tuv xml:lang="pt">
+    <seg>01. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. August 2015 - 17:36</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="71">
+   <tuv xml:lang="pt">
+    <seg>01. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. August 2015 - 10:41</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="72">
+   <tuv xml:lang="pt">
+    <seg>01. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="73">
+   <tuv xml:lang="pt">
+    <seg>01. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. August 2015 - 12:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="74">
+   <tuv xml:lang="pt">
+    <seg>01. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. August 2015 - 12:50</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="75">
+   <tuv xml:lang="pt">
+    <seg>01. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. August 2015 - 12:59</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="76">
+   <tuv xml:lang="pt">
+    <seg>01. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. August 2015 - 14:13</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="77">
+   <tuv xml:lang="pt">
+    <seg>01 Agosto 2015 | 13h 42</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>30 Jun 2015S .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="78">
+   <tuv xml:lang="pt">
+    <seg>01 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>13 May 2015N .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="79">
+   <tuv xml:lang="pt">
+    <seg>01 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>26 Jun 2015N .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="80">
+   <tuv xml:lang="pt">
+    <seg>01 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Aug 9, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="81">
+   <tuv xml:lang="pt">
+    <seg>01 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Monday 10 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="82">
+   <tuv xml:lang="pt">
+    <seg>01 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sunday 31 May 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="83">
+   <tuv xml:lang="pt">
+    <seg>01 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday 13 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="84">
+   <tuv xml:lang="pt">
+    <seg>01 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Tuesday 14 July 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="85">
+   <tuv xml:lang="pt">
+    <seg>01 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>U.S. August 3, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="86">
+   <tuv xml:lang="pt">
+    <seg>01 de julho de 2007 .</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Reuters, Wednesday 17 Jun 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="87">
+   <tuv xml:lang="pt">
+    <seg>01 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Jul 9, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="88">
+   <tuv xml:lang="pt">
+    <seg>01 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>July 6, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="89">
+   <tuv xml:lang="pt">
+    <seg>01 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>June 19, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="90">
+   <tuv xml:lang="pt">
+    <seg>01 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>News24Wire, July 3, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="91">
+   <tuv xml:lang="pt">
+    <seg>01 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sunday 10 May 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="92">
+   <tuv xml:lang="pt">
+    <seg>01 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sunday 24 May 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="93">
+   <tuv xml:lang="pt">
+    <seg>01 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday 13 February 2014</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="94">
+   <tuv xml:lang="pt">
+    <seg>01 de julho - Show de Jads e Jadson</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>— KosJudoFederation (@KosovaJudo) December 15, 2014</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="95">
+   <tuv xml:lang="pt">
+    <seg>01 de julho - Show de Jads e Jadson</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>— NWSHouston (@NWSHouston) June 16, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="96">
+   <tuv xml:lang="pt">
+    <seg>01 de julho – Show de Jads e Jadson</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>— NWSHouston (@NWSHouston) June 16, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="97">
+   <tuv xml:lang="pt">
+    <seg>01 de junho de 1967</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Monday 1 June 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="98">
+   <tuv xml:lang="pt">
+    <seg>01 de junho de 1967</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sunday 14 June 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="99">
+   <tuv xml:lang="pt">
+    <seg>01 de Junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Jun 6, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="100">
+   <tuv xml:lang="pt">
+    <seg>01 de Junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>June 9, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="101">
+   <tuv xml:lang="pt">
+    <seg>01 de Junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday 11 June 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="102">
+   <tuv xml:lang="pt">
+    <seg>01 de outubro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>18 September - 13 March</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="103">
+   <tuv xml:lang="pt">
+    <seg>01 de Outubro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Friday 2 October, 2015 ,</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="104">
+   <tuv xml:lang="pt">
+    <seg>01 de outubro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Tuesday 13 January 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="105">
+   <tuv xml:lang="pt">
+    <seg>01 de outubro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Wednesday, July 1, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="106">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>01. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="107">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>02. July 2015 - 09:23</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="108">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>02. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="109">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>03. July 2015 - 17:58</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="110">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>03. July 2015 - 22:35</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="111">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>04. July 2015 - 12:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="112">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>04. July 2015 - 14:57</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="113">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="114">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. July 2015 - 12:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="115">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. July 2015 - 13:09</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="116">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. July 2015 - 10:45</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="117">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. July 2015 - 13:04</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="118">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. July 2015 - 15:33</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="119">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="120">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. July 2015 - 11:20</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="121">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. July 2015 - 13:17</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="122">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. July 2015 - 20:47</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="123">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. July 2015 - 11:22</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="124">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. July 2015 - 13:54</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="125">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. July 2015 - 15:32</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="126">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. July 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="127">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. July 2015 - 09:16</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="128">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="129">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. July 2015 - 15:21</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="130">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. July 2015 - 20:42</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="131">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="132">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 14:15</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="133">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 15:03</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="134">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="135">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>15. June 2015 - 11:57</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="136">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>18. June 2015 - 14:40</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="137">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>21. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="138">
+   <tuv xml:lang="pt">
+    <seg>01. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Published time: July 01, 2015 15:38</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="139">
+   <tuv xml:lang="pt">
+    <seg>01 Junho 2015 | 10h 16</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 - 4 / 16</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="140">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>01. June 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="141">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>02. June 2015 - 11:34</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="142">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>02. June 2015 - 15:07</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="143">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>02. June 2015 - 19:59</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="144">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>03. June 2015 - 16:14</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="145">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>03. June 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="146">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>04. June 2015 - 15:47</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="147">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. June 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="148">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. June 2015 - 14:01</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="149">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. June 2015 - 14:51</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="150">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. June 2015 - 14:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="151">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. June 2015 - 12:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="152">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. June 2015 - 13:32</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="153">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. June 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="154">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. June 2015 - 12:09</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="155">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. June 2015 - 15:47</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="156">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. June 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="157">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. June 2015 - 13:16</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="158">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. June 2015 - 18:21</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="159">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. June 2015 - 20:56</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="160">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. June 2015 - 10:44</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="161">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. June 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="162">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. June 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="163">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>01. June 2015 - 10:51</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="164">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>01 June 2015, 13:52</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="165">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>01. June 2015 - 16:55</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="166">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>01 June 2015, 23:14</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="167">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>03. June 2015 - 14:51</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="168">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>04. June 2015 - 12:02</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="169">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. June 2015 - 14:01</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="170">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. June 2015 - 14:51</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="171">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. June 2015 - 14:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="172">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. June 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="173">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. June 2015 - 12:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="174">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. June 2015 - 18:16</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="175">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. June 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="176">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. June 2015 - 11:06</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="177">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. June 2015 - 12:09</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="178">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. June 2015 - 15:47</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="179">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. June 2015 - 11:55</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="180">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. June 2015 - 13:16</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="181">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. June 2015 - 18:59</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="182">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. June 2015 - 10:44</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="183">
+   <tuv xml:lang="pt">
+    <seg>01. Junho 2015 - 11:01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. June 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="184">
+   <tuv xml:lang="pt">
+    <seg>01 Junho 2015 | 11h 35</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 - 4 / 35</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="185">
+   <tuv xml:lang="pt">
+    <seg>01 Junho 2015 | 19h 01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12 - 28 June 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="186">
+   <tuv xml:lang="pt">
+    <seg>- 01 kg de macaxeira</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>킴 카다시안, ‘파격 누드’ 공개</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="187">
+   <tuv xml:lang="pt">
+    <seg>02 03 04 05 06</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-10T15:16:31-04:00 September 10, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="188">
+   <tuv xml:lang="pt">
+    <seg>02 05 08 09 10</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-10T15:16:31-04:00 September 10, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="189">
+   <tuv xml:lang="pt">
+    <seg>02/08/2015 20:02:28 Em: Mais Esportes, Volei</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sports | Fri Aug 14, 2015 11:19am BST</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="190">
+   <tuv xml:lang="pt">
+    <seg>02/08/2015 20:02:28 Em: Mais Esportes, Volei</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sports | Tue Aug 11, 2015 10:04am BST</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="191">
+   <tuv xml:lang="pt">
+    <seg>02/10/2015 13:33:53 Em: Mais Esportes, Tênis</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>You are here: Home &gt; Sports &gt; Tennis</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="192">
+   <tuv xml:lang="pt">
+    <seg>02/10/2015 15:55:45 Em: Mais Esportes, Tênis</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>You are here: Home &gt; Sports &gt; Tennis</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="193">
+   <tuv xml:lang="pt">
+    <seg>02/10/2015 18:46:02 Em: Mais Esportes, Tênis</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>You are here: Home &gt; Sports &gt; Tennis</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="194">
+   <tuv xml:lang="pt">
+    <seg>· 02.10.2015 / atualizado às 15:42</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 00:03</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="195">
+   <tuv xml:lang="pt">
+    <seg>· 02.10.2015 / atualizado às 18:40</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 18:08</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="196">
+   <tuv xml:lang="pt">
+    <seg>0 21/09 a 23/09</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>© 2002-2015 BarentsObserver .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="197">
+   <tuv xml:lang="pt">
+    <seg>02/10 – Sexta Feira</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Friday, October 02, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="198">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>02. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="199">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>03. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="200">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>03. August 2015 - 15:16</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="201">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>03. August 2015 - 18:13</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="202">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>04. August 2015 - 13:33</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="203">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>04. August 2015 - 15:38</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="204">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>04. August 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="205">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>04. August 2015 - 19:10</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="206">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>04. August 2015 - 20:56</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="207">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. August 2015 - 10:20</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="208">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="209">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. August 2015 - 09:59</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="210">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. August 2015 - 15:05</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="211">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. August 2015 - 17:36</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="212">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. August 2015 - 21:45</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="213">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. August 2015 - 10:41</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="214">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="215">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. August 2015 - 16:43</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="216">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="217">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. August 2015 - 12:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="218">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. August 2015 - 12:50</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="219">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="220">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. August 2015 - 12:59</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="221">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. August 2015 - 14:13</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="222">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. August 2015 - 17:16</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="223">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="224">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 15:56</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="225">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 16:04</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="226">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 16:28</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="227">
+   <tuv xml:lang="pt">
+    <seg>02. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 16:40</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="228">
+   <tuv xml:lang="pt">
+    <seg>02 Agosto 2015 | 22h 21</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>30 Jun 2015S .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="229">
+   <tuv xml:lang="pt">
+    <seg>-0,2°C Aroio do Trinta</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>© 2002-2015 BarentsObserver .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="230">
+   <tuv xml:lang="pt">
+    <seg>• 02 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Monday 17 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="231">
+   <tuv xml:lang="pt">
+    <seg>02 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>April 22, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="232">
+   <tuv xml:lang="pt">
+    <seg>02 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Jul 3, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="233">
+   <tuv xml:lang="pt">
+    <seg>02 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Jul 6, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="234">
+   <tuv xml:lang="pt">
+    <seg>02 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Jul 9, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="235">
+   <tuv xml:lang="pt">
+    <seg>02 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>July 5, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="236">
+   <tuv xml:lang="pt">
+    <seg>02 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Jun 4, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="237">
+   <tuv xml:lang="pt">
+    <seg>02 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>June 27, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="238">
+   <tuv xml:lang="pt">
+    <seg>02 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>June 28, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="239">
+   <tuv xml:lang="pt">
+    <seg>02 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>News24Wire, July 3, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="240">
+   <tuv xml:lang="pt">
+    <seg>02 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday July 2, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="241">
+   <tuv xml:lang="pt">
+    <seg>02 de Julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Wednesday 27 May 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="242">
+   <tuv xml:lang="pt">
+    <seg>02 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>April 22, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="243">
+   <tuv xml:lang="pt">
+    <seg>02 de Junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Friday Mar 13, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="244">
+   <tuv xml:lang="pt">
+    <seg>02 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Jun 4, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="245">
+   <tuv xml:lang="pt">
+    <seg>02 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>June 3, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="246">
+   <tuv xml:lang="pt">
+    <seg>02 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>June 6, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="247">
+   <tuv xml:lang="pt">
+    <seg>02 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>June 7, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="248">
+   <tuv xml:lang="pt">
+    <seg>02 de Junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>June 9, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="249">
+   <tuv xml:lang="pt">
+    <seg>02 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday 11 June 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="250">
+   <tuv xml:lang="pt">
+    <seg>02 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday 23 April 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="251">
+   <tuv xml:lang="pt">
+    <seg>02 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday Mar 12, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="252">
+   <tuv xml:lang="pt">
+    <seg>02 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Wednesday 10 June 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="253">
+   <tuv xml:lang="pt">
+    <seg>02 de outubro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14 May - 31 August</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="254">
+   <tuv xml:lang="pt">
+    <seg>02 de Outubro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Oct 4, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="255">
+   <tuv xml:lang="pt">
+    <seg>02 de Outubro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Oct 7, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="256">
+   <tuv xml:lang="pt">
+    <seg>02 de Outubro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sunday 27 September 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="257">
+   <tuv xml:lang="pt">
+    <seg>02 de outubro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday 20 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="258">
+   <tuv xml:lang="pt">
+    <seg>02 de outubro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Tuesday 15 September 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="259">
+   <tuv xml:lang="pt">
+    <seg>02 de outubro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Tuesday July 21, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="260">
+   <tuv xml:lang="pt">
+    <seg>02. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. July 2015 - 12:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="261">
+   <tuv xml:lang="pt">
+    <seg>02. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. July 2015 - 10:45</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="262">
+   <tuv xml:lang="pt">
+    <seg>02. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="263">
+   <tuv xml:lang="pt">
+    <seg>02. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. July 2015 - 13:17</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="264">
+   <tuv xml:lang="pt">
+    <seg>02. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. July 2015 - 20:47</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="265">
+   <tuv xml:lang="pt">
+    <seg>02. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. July 2015 - 09:16</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="266">
+   <tuv xml:lang="pt">
+    <seg>02. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="267">
+   <tuv xml:lang="pt">
+    <seg>02. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. July 2015 - 14:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="268">
+   <tuv xml:lang="pt">
+    <seg>02. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="269">
+   <tuv xml:lang="pt">
+    <seg>02. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 14:15</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="270">
+   <tuv xml:lang="pt">
+    <seg>02. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 15:03</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="271">
+   <tuv xml:lang="pt">
+    <seg>02. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="272">
+   <tuv xml:lang="pt">
+    <seg>02 Junho 2015 | 02h 01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12 - 28 June 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="273">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>02. June 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="274">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>03. June 2015 - 14:51</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="275">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>03. June 2015 - 16:14</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="276">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>03. June 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="277">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>04. June 2015 - 12:02</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="278">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>04. June 2015 - 12:12</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="279">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>04. June 2015 - 16:06</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="280">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. June 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="281">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. June 2015 - 14:01</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="282">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. June 2015 - 14:51</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="283">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. June 2015 - 14:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="284">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. June 2015 - 13:32</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="285">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. June 2015 - 18:16</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="286">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. June 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="287">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. June 2015 - 11:06</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="288">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. June 2015 - 12:09</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="289">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. June 2015 - 15:47</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="290">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. June 2015 - 13:16</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="291">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. June 2015 - 18:21</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="292">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. June 2015 - 18:59</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="293">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. June 2015 - 10:44</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="294">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. June 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="295">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. June 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="296">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. June 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="297">
+   <tuv xml:lang="pt">
+    <seg>02. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. June 2015 - 12:43</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="298">
+   <tuv xml:lang="pt">
+    <seg>02 Junho 2015 | 16h 39</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 - 4 / 39</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="299">
+   <tuv xml:lang="pt">
+    <seg>02 Junho 2015 | 17h 10</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 - 4 / 10</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="300">
+   <tuv xml:lang="pt">
+    <seg>02 Junho 2015 | 17h 45</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12 - 28 June 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="301">
+   <tuv xml:lang="pt">
+    <seg>02 Junho 2015 | 20h 50</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 - 4 / 50</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="302">
+   <tuv xml:lang="pt">
+    <seg>02 Junho 2015 | 22h 12</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 - 4 / 12</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="303">
+   <tuv xml:lang="pt">
+    <seg>02 Outubro 2015 | 09h 00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-10T03:57:14-04:00 September 10, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="304">
+   <tuv xml:lang="pt">
+    <seg>02 Outubro 2015 | 09h 00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-10T10:34:02-04:00 September 10, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="305">
+   <tuv xml:lang="pt">
+    <seg>02 Outubro 2015 | 09h 00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-10T15:16:31-04:00 September 10, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="306">
+   <tuv xml:lang="pt">
+    <seg>02. Outubro 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>16:31 GMT, Oct 05, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="307">
+   <tuv xml:lang="pt">
+    <seg>02 Outubro 2015 | 16h 02</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>02 October 2015, 14:15</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="308">
+   <tuv xml:lang="pt">
+    <seg>02 Outubro 2015 | 16h 13</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>27 to Nov. 8 .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="309">
+   <tuv xml:lang="pt">
+    <seg>02 Outubro 2015 | 21h 05</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05 October 2015, 12:47</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="310">
+   <tuv xml:lang="pt">
+    <seg>02. Setembro 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. August 2015 - 17:59</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="311">
+   <tuv xml:lang="pt">
+    <seg>02. Setembro 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>19. August 2015 - 11:01</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="312">
+   <tuv xml:lang="pt">
+    <seg>03/04 – Argentina – Termas de Río Hondo</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>April 3 - Argentina (Termas de Río Hondo)</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="313">
+   <tuv xml:lang="pt">
+    <seg>03/08/2015 - 14:19:06 ?</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>August 4, 2015 10:47AM ET</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="314">
+   <tuv xml:lang="pt">
+    <seg>03/08/2015 - 14:19:06 ?</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>August 7, 2015 11:40AM ET</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="315">
+   <tuv xml:lang="pt">
+    <seg>03/08/2015 - 14:19:06 ?</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>— mailsherene (@mailsherene) August 2, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="316">
+   <tuv xml:lang="pt">
+    <seg>03/08/2015 às 05h00 - Turíbio Liberatto -</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10:00 pm, July 20, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="317">
+   <tuv xml:lang="pt">
+    <seg>03/08/2015 às 05h00 - Turíbio Liberatto -</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10:04 pm, August 12, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="318">
+   <tuv xml:lang="pt">
+    <seg>03/08/2015 às 05h00 - Turíbio Liberatto -</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10:50 pm, June 22, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="319">
+   <tuv xml:lang="pt">
+    <seg>03/08/2015 às 05h00 - Turíbio Liberatto -</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>16:28 GMT, Aug 12, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="320">
+   <tuv xml:lang="pt">
+    <seg>03/08/2015 às 05h00 - Turíbio Liberatto -</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>22:28 GMT, Aug 12, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="321">
+   <tuv xml:lang="pt">
+    <seg>03/08/2015 às 05h00 - Turíbio Liberatto -</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Aris_Mp , June 9, 2015 3:01 AM</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="322">
+   <tuv xml:lang="pt">
+    <seg>03/08/2015 às 05h00 - Turíbio Liberatto -</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Aug 12, 2015 - 14:14</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="323">
+   <tuv xml:lang="pt">
+    <seg>03/08/2015 às 05h00 - Turíbio Liberatto -</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Aug 4, 2015 - 15:38</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="324">
+   <tuv xml:lang="pt">
+    <seg>03/08/2015 às 05h00 - Turíbio Liberatto -</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Aug 7, 2015 - 16:43</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="325">
+   <tuv xml:lang="pt">
+    <seg>03/08/2015 às 05h00 - Turíbio Liberatto -</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>, July 27, 2015 2:34 AM</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="326">
+   <tuv xml:lang="pt">
+    <seg>03/08/2015 às 05h00 - Turíbio Liberatto -</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>— netzpolitik (@netzpolitik) August 10, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="327">
+   <tuv xml:lang="pt">
+    <seg>03/10/15 | Cinco pessoas morrem em grave acidente de trânsito ...</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Six people involved in the crash were taken to hospital with serious injuries .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="328">
+   <tuv xml:lang="pt">
+    <seg>03/10/2015 15:50:15 Em: Mais Esportes, Tênis</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>You are here: Home &gt; Sports &gt; Tennis</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="329">
+   <tuv xml:lang="pt">
+    <seg>03/10/2015 19:54:25 Em: Mais Esportes, Tênis</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>You are here: Home &gt; Sports &gt; Tennis</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="330">
+   <tuv xml:lang="pt">
+    <seg>· 03.10.2015 / atualizado às 07:44</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 19:02</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="331">
+   <tuv xml:lang="pt">
+    <seg>· 03.10.2015 / atualizado às 16:30</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 08:33</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="332">
+   <tuv xml:lang="pt">
+    <seg>· 03.10.2015 / atualizado às 16:30</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 13:40</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="333">
+   <tuv xml:lang="pt">
+    <seg>· 03.10.2015 / atualizado às 16:30</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 16:03</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="334">
+   <tuv xml:lang="pt">
+    <seg>· 03.10.2015 / atualizado às 16:30</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 16:31</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="335">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>03. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="336">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>04. August 2015 - 13:33</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="337">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>04. August 2015 - 15:38</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="338">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>04. August 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="339">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>04. August 2015 - 19:10</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="340">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. August 2015 - 10:20</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="341">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="342">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. August 2015 - 09:59</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="343">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. August 2015 - 15:05</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="344">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. August 2015 - 17:36</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="345">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. August 2015 - 21:45</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="346">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. August 2015 - 10:41</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="347">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="348">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. August 2015 - 16:43</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="349">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="350">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="351">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. August 2015 - 12:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="352">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. August 2015 - 12:50</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="353">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="354">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. August 2015 - 12:59</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="355">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. August 2015 - 14:13</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="356">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. August 2015 - 17:16</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="357">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="358">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 15:56</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="359">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 16:04</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="360">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 16:28</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="361">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 16:40</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="362">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. August 2015 - 15:16</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="363">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. August 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="364">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. August 2015 - 17:24</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="365">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. August 2015 - 17:59</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="366">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>23. July 2015 - 19:22</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="367">
+   <tuv xml:lang="pt">
+    <seg>03. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>29. July 2015 - 17:54</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="368">
+   <tuv xml:lang="pt">
+    <seg>03 Agosto 2015 | 17h 06</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>: 6, 06 .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="369">
+   <tuv xml:lang="pt">
+    <seg>- 03 colheres e 1/2 de manteiga</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 1/2 teaspoons salt</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="370">
+   <tuv xml:lang="pt">
+    <seg>03 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>26 Jun 2015N .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="371">
+   <tuv xml:lang="pt">
+    <seg>03 de Agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Monday 10 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="372">
+   <tuv xml:lang="pt">
+    <seg>03 de Agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Monday August 10, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="373">
+   <tuv xml:lang="pt">
+    <seg>03 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>U.S. August 5, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="374">
+   <tuv xml:lang="pt">
+    <seg>03 de Agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Wednesday 27 May 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="375">
+   <tuv xml:lang="pt">
+    <seg>03 de Julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>April 22, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="376">
+   <tuv xml:lang="pt">
+    <seg>03 de Julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Jul 5, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="377">
+   <tuv xml:lang="pt">
+    <seg>03 de Julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>July 10, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="378">
+   <tuv xml:lang="pt">
+    <seg>03 de Julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>July 4, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="379">
+   <tuv xml:lang="pt">
+    <seg>03 de Julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>July 5, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="380">
+   <tuv xml:lang="pt">
+    <seg>03 de Julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>July 6, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="381">
+   <tuv xml:lang="pt">
+    <seg>03 de Julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>July 7, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="382">
+   <tuv xml:lang="pt">
+    <seg>03 de Julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>July 8, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="383">
+   <tuv xml:lang="pt">
+    <seg>03 de Julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>March 28, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="384">
+   <tuv xml:lang="pt">
+    <seg>03 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>May 6, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="385">
+   <tuv xml:lang="pt">
+    <seg>03 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>May 6, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="386">
+   <tuv xml:lang="pt">
+    <seg>03 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>News24Wire, July 3, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="387">
+   <tuv xml:lang="pt">
+    <seg>03 de julho – sexta-feira</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>July 4, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="388">
+   <tuv xml:lang="pt">
+    <seg>03 de julho – sexta-feira</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>July 7, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="389">
+   <tuv xml:lang="pt">
+    <seg>03 de julho – sexta-feira</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday 9 July, 2015 ,</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="390">
+   <tuv xml:lang="pt">
+    <seg>03 de julho – sexta-feira</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday, July 9, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="391">
+   <tuv xml:lang="pt">
+    <seg>03 de junho de 2015 | 18h 42</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 - 4 / 42</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="392">
+   <tuv xml:lang="pt">
+    <seg>03 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>April 22, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="393">
+   <tuv xml:lang="pt">
+    <seg>03 de Junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Friday Feb 27, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="394">
+   <tuv xml:lang="pt">
+    <seg>03 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Jun 4, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="395">
+   <tuv xml:lang="pt">
+    <seg>03 de Junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Jun 6, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="396">
+   <tuv xml:lang="pt">
+    <seg>03 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Jun 9, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="397">
+   <tuv xml:lang="pt">
+    <seg>03 de Junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>June 4, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="398">
+   <tuv xml:lang="pt">
+    <seg>03 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>June 6, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="399">
+   <tuv xml:lang="pt">
+    <seg>03 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>June 7, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="400">
+   <tuv xml:lang="pt">
+    <seg>03 de Junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>June 9, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="401">
+   <tuv xml:lang="pt">
+    <seg>03 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Saturday 13 June 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="402">
+   <tuv xml:lang="pt">
+    <seg>03 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday 11 June 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="403">
+   <tuv xml:lang="pt">
+    <seg>03 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Wednesday 10 June 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="404">
+   <tuv xml:lang="pt">
+    <seg>03 de Junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Wednesday 10 June 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="405">
+   <tuv xml:lang="pt">
+    <seg>03 E 04 de agosto</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2 May - 12 September</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="406">
+   <tuv xml:lang="pt">
+    <seg>03 e 04 de agosto</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>4 April - 20 September</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="407">
+   <tuv xml:lang="pt">
+    <seg>03. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>03. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="408">
+   <tuv xml:lang="pt">
+    <seg>03. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. July 2015 - 12:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="409">
+   <tuv xml:lang="pt">
+    <seg>03. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="410">
+   <tuv xml:lang="pt">
+    <seg>03. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 14:15</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="411">
+   <tuv xml:lang="pt">
+    <seg>03. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 15:03</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="412">
+   <tuv xml:lang="pt">
+    <seg>03. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="413">
+   <tuv xml:lang="pt">
+    <seg>03. Julho 2015 - 14:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>01. June 2015 - 16:55</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="414">
+   <tuv xml:lang="pt">
+    <seg>03. Julho 2015 - 14:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>02. July 2015 - 09:23</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="415">
+   <tuv xml:lang="pt">
+    <seg>03. Julho 2015 - 14:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>03. July 2015 - 17:58</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="416">
+   <tuv xml:lang="pt">
+    <seg>03. Julho 2015 - 14:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. July 2015 - 13:54</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="417">
+   <tuv xml:lang="pt">
+    <seg>03. Julho 2015 - 14:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. July 2015 - 20:58</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="418">
+   <tuv xml:lang="pt">
+    <seg>03. Julho 2015 - 14:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="419">
+   <tuv xml:lang="pt">
+    <seg>03. Julho 2015 - 14:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. July 2015 - 15:21</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="420">
+   <tuv xml:lang="pt">
+    <seg>03. Julho 2015 - 14:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. July 2015 - 20:42</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="421">
+   <tuv xml:lang="pt">
+    <seg>03. Julho 2015 - 14:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="422">
+   <tuv xml:lang="pt">
+    <seg>03. Julho 2015 - 14:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 14:15</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="423">
+   <tuv xml:lang="pt">
+    <seg>03. Julho 2015 - 14:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 15:03</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="424">
+   <tuv xml:lang="pt">
+    <seg>03. Julho 2015 - 14:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="425">
+   <tuv xml:lang="pt">
+    <seg>03. Julho 2015 - 14:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>29. June 2015 - 07:39</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="426">
+   <tuv xml:lang="pt">
+    <seg>03 Junho, 18:13•NOVA YORK•ZLR</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>— 442 (@442) June 5, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="427">
+   <tuv xml:lang="pt">
+    <seg>03 Junho 2015 | 08h 15</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 of 2) 01.06.2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="428">
+   <tuv xml:lang="pt">
+    <seg>03. Junho 2015 - 10:30</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>02. June 2015 - 19:59</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="429">
+   <tuv xml:lang="pt">
+    <seg>03. Junho 2015 - 10:30</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>04. June 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="430">
+   <tuv xml:lang="pt">
+    <seg>03 Junho 2015 | 15h 10</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 - 4 / 10</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="431">
+   <tuv xml:lang="pt">
+    <seg>03 Junho 2015 | 16h 50</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 - 4 / 50</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="432">
+   <tuv xml:lang="pt">
+    <seg>03 Outubro 2015 | 12h 03</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>03 October 2015, 20:05</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="433">
+   <tuv xml:lang="pt">
+    <seg>04: 00 - Telecursos</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>left 1 of 5 right</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="434">
+   <tuv xml:lang="pt">
+    <seg>04: 00 - Telecursos</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>left 1 of 6 right</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="435">
+   <tuv xml:lang="pt">
+    <seg>04: 00 - Telecursos</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 128.0kb/s - 1.3MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="436">
+   <tuv xml:lang="pt">
+    <seg>04: 00 - Telecursos</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 128.0kb/s - 1.4MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="437">
+   <tuv xml:lang="pt">
+    <seg>04: 00 - Telecursos</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 128.0kb/s - 1.9MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="438">
+   <tuv xml:lang="pt">
+    <seg>04: 00 - Telecursos</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 64.0kb/s - 1.1MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="439">
+   <tuv xml:lang="pt">
+    <seg>04: 00 - Telecursos</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 64.0kb/s - 1.2MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="440">
+   <tuv xml:lang="pt">
+    <seg>04: 00 - Telecursos</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 64.0kb/s - 1.5MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="441">
+   <tuv xml:lang="pt">
+    <seg>04: 00 - Telecursos</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 64.0kb/s - 1.8MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="442">
+   <tuv xml:lang="pt">
+    <seg>04: 00 - Telecursos</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 64.0kb/s - 2.0MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="443">
+   <tuv xml:lang="pt">
+    <seg>04: 00 - Telecursos</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 64.0kb/s - 2.1MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="444">
+   <tuv xml:lang="pt">
+    <seg>04: 00 - Telecursos</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 64.0kb/s - 2.6MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="445">
+   <tuv xml:lang="pt">
+    <seg>04: 00 - Telecursos</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 64.0kb/s - 2.9MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="446">
+   <tuv xml:lang="pt">
+    <seg>04: 00 - Telecursos</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>MP3 - 64.0kb/s - 3.3MB</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="447">
+   <tuv xml:lang="pt">
+    <seg>04 08 21 26 29</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-10T03:57:14-04:00 September 10, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="448">
+   <tuv xml:lang="pt">
+    <seg>04 08 21 26 29</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-10T10:34:02-04:00 September 10, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="449">
+   <tuv xml:lang="pt">
+    <seg>04 08 21 26 29</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-11T22:23:42-04:00 September 11, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="450">
+   <tuv xml:lang="pt">
+    <seg>04 08 21 26 29</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-11T22:32:38-04:00 September 11, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="451">
+   <tuv xml:lang="pt">
+    <seg>04/08 - Etapa 3</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>[3 ] Do, Quy-Toan .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="452">
+   <tuv xml:lang="pt">
+    <seg>04/08 - O Karimã</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>: 1, 10 .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="453">
+   <tuv xml:lang="pt">
+    <seg>04/08 - O Karimã</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>3. Love for Taegeukgi</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="454">
+   <tuv xml:lang="pt">
+    <seg>04/08 - O Karimã</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>He was 19 .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="455">
+   <tuv xml:lang="pt">
+    <seg>04/08 - O Karimã</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>He was 49 .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="456">
+   <tuv xml:lang="pt">
+    <seg>04/08 - O Karimã</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Rio Scenarium-7:30PM and 10:30PM</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="457">
+   <tuv xml:lang="pt">
+    <seg>04/10/2015 09:24:44 Em: Mais Esportes, Tênis</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>You are here: Home &gt; Sports &gt; Tennis</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="458">
+   <tuv xml:lang="pt">
+    <seg>04/10/2015 16:22:35 Em: Mais Esportes, Tênis</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>You are here: Home &gt; Sports &gt; Tennis</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="459">
+   <tuv xml:lang="pt">
+    <seg>04/10/2015 às 08:02 - Atualizado em 04/10/2015 às 08:02</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>July 21, 2015 8:02 AM</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="460">
+   <tuv xml:lang="pt">
+    <seg>· 04.10.2015 / atualizado às 11:49</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 22:47</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="461">
+   <tuv xml:lang="pt">
+    <seg>· 04.10.2015 / atualizado às 12:23</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 06:28</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="462">
+   <tuv xml:lang="pt">
+    <seg>· 04.10.2015 / atualizado às 12:23</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 22:36</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="463">
+   <tuv xml:lang="pt">
+    <seg>· 04.10.2015 / atualizado às 15:07</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 11:43</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="464">
+   <tuv xml:lang="pt">
+    <seg>· 04.10.2015 / atualizado às 15:07</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 13:04</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="465">
+   <tuv xml:lang="pt">
+    <seg>· 04.10.2015 / atualizado às 15:07</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 13:40</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="466">
+   <tuv xml:lang="pt">
+    <seg>· 04.10.2015 / atualizado às 15:07</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 13:52</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="467">
+   <tuv xml:lang="pt">
+    <seg>· 04.10.2015 / atualizado às 15:07</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 16:03</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="468">
+   <tuv xml:lang="pt">
+    <seg>· 04.10.2015 / atualizado às 15:07</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 16:31</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="469">
+   <tuv xml:lang="pt">
+    <seg>· 04.10.2015 / atualizado às 15:07</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 22:18</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="470">
+   <tuv xml:lang="pt">
+    <seg>· 04.10.2015 / atualizado às 15:07</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 22:47</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="471">
+   <tuv xml:lang="pt">
+    <seg>· 04.10.2015 / atualizado às 15:32</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 13:52</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="472">
+   <tuv xml:lang="pt">
+    <seg>· 04.10.2015 / atualizado às 15:32</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 16:03</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="473">
+   <tuv xml:lang="pt">
+    <seg>· 04.10.2015 / atualizado às 15:32</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 21:55</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="474">
+   <tuv xml:lang="pt">
+    <seg>· 04.10.2015 / atualizado às 17:39</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 13:04</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="475">
+   <tuv xml:lang="pt">
+    <seg>· 04.10.2015 / atualizado às 17:39</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 13:52</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="476">
+   <tuv xml:lang="pt">
+    <seg>· 04.10.2015 / atualizado às 17:42</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 13:04</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="477">
+   <tuv xml:lang="pt">
+    <seg>· 04.10.2015 / atualizado às 17:42</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 13:52</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="478">
+   <tuv xml:lang="pt">
+    <seg>· 04.10.2015 / atualizado às 17:42</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 16:56</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="479">
+   <tuv xml:lang="pt">
+    <seg>· 04.10.2015 / atualizado às 17:42</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 17:27</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="480">
+   <tuv xml:lang="pt">
+    <seg>· 04.10.2015 / atualizado às 17:42</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 21:38</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="481">
+   <tuv xml:lang="pt">
+    <seg>· 04.10.2015 / atualizado às 17:42</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 21:39</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="482">
+   <tuv xml:lang="pt">
+    <seg>· 04.10.2015 / atualizado às 17:42</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 21:55</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="483">
+   <tuv xml:lang="pt">
+    <seg>· 04.10.2015 / atualizado às 17:42</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 22:47</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="484">
+   <tuv xml:lang="pt">
+    <seg>04 11 15 16 19</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-11T15:06:18-04:00 September 11, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="485">
+   <tuv xml:lang="pt">
+    <seg>04 Agosto 2015 | 02h 01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>13:23 ,2015 آب 01</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="486">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. August 2015 - 10:20</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="487">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="488">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. August 2015 - 09:59</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="489">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="490">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. August 2015 - 15:05</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="491">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. August 2015 - 17:36</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="492">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. August 2015 - 21:45</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="493">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. August 2015 - 10:41</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="494">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="495">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. August 2015 - 16:43</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="496">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="497">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. August 2015 - 12:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="498">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. August 2015 - 12:50</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="499">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="500">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. August 2015 - 12:59</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="501">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. August 2015 - 14:13</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="502">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. August 2015 - 17:16</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="503">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="504">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 13:37</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="505">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 16:04</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="506">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 16:28</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="507">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="508">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. August 2015 - 15:16</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="509">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. August 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="510">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. August 2015 - 17:24</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="511">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. August 2015 - 19:02</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="512">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>13. August 2015 - 09:28</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="513">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>13. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="514">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>13. August 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="515">
+   <tuv xml:lang="pt">
+    <seg>04. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>13. August 2015 - 17:39</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="516">
+   <tuv xml:lang="pt">
+    <seg>04 Agosto 2015 | 13h 12</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>: 9, 12 .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="517">
+   <tuv xml:lang="pt">
+    <seg>04 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>13 May 2015N .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="518">
+   <tuv xml:lang="pt">
+    <seg>04 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Friday 22 May 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="519">
+   <tuv xml:lang="pt">
+    <seg>04 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Friday August 7, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="520">
+   <tuv xml:lang="pt">
+    <seg>04 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Monday 10 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="521">
+   <tuv xml:lang="pt">
+    <seg>04 de Agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Monday August 10, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="522">
+   <tuv xml:lang="pt">
+    <seg>04 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday 13 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="523">
+   <tuv xml:lang="pt">
+    <seg>04 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday August 13, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="524">
+   <tuv xml:lang="pt">
+    <seg>04 de julho de 1659</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>July 15, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="525">
+   <tuv xml:lang="pt">
+    <seg>04 de julho de 1659</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Wednesday July 15, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="526">
+   <tuv xml:lang="pt">
+    <seg>04 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday 23 April 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="527">
+   <tuv xml:lang="pt">
+    <seg>04 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Tuesday 14 July 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="528">
+   <tuv xml:lang="pt">
+    <seg>04 de julho – sábado</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Saturday, 18 April 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="529">
+   <tuv xml:lang="pt">
+    <seg>04 de julho – sábado</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sunday 5 July, 2015 ,</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="530">
+   <tuv xml:lang="pt">
+    <seg>04 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Jun 11, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="531">
+   <tuv xml:lang="pt">
+    <seg>04 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Jun 6, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="532">
+   <tuv xml:lang="pt">
+    <seg>04 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>June 12, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="533">
+   <tuv xml:lang="pt">
+    <seg>04 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>June 6, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="534">
+   <tuv xml:lang="pt">
+    <seg>04 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>June 8, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="535">
+   <tuv xml:lang="pt">
+    <seg>04 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Monday 15 June 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="536">
+   <tuv xml:lang="pt">
+    <seg>04 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sunday 14 June 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="537">
+   <tuv xml:lang="pt">
+    <seg>04 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sunday 17 May 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="538">
+   <tuv xml:lang="pt">
+    <seg>04 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Tuesday June 9, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="539">
+   <tuv xml:lang="pt">
+    <seg>04 de junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Wednesday 10 June 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="540">
+   <tuv xml:lang="pt">
+    <seg>04 de setembro – Jads e Jadson</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>— 50cent (@50cent) July 19, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="541">
+   <tuv xml:lang="pt">
+    <seg>04 de setembro – Jads e Jadson</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>— hitchBOT (@hitchBOT) July 18, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="542">
+   <tuv xml:lang="pt">
+    <seg>04 de setembro – Jads e Jadson</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Saturday 25 July 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="543">
+   <tuv xml:lang="pt">
+    <seg>• 04 e 05 de agosto – Potiraguá</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>— 3ChicsPolitico (@3ChicsPolitico) August 23, 2014</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="544">
+   <tuv xml:lang="pt">
+    <seg>• 04 e 05 de agosto – Potiraguá</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>— AMNH (@AMNH) August 6, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="545">
+   <tuv xml:lang="pt">
+    <seg>• 04 e 05 de agosto – Potiraguá</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>— CBSDenver (@CBSDenver) August 10, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="546">
+   <tuv xml:lang="pt">
+    <seg>04 Junho 2015 | 10h 10</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 - 4 / 10</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="547">
+   <tuv xml:lang="pt">
+    <seg>04. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>03. June 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="548">
+   <tuv xml:lang="pt">
+    <seg>04. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>04 June 2015, 16:08</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="549">
+   <tuv xml:lang="pt">
+    <seg>04. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. June 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="550">
+   <tuv xml:lang="pt">
+    <seg>04. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. June 2015 - 14:01</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="551">
+   <tuv xml:lang="pt">
+    <seg>04. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. June 2015 - 14:51</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="552">
+   <tuv xml:lang="pt">
+    <seg>04. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. June 2015 - 14:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="553">
+   <tuv xml:lang="pt">
+    <seg>04. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. June 2015 - 12:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="554">
+   <tuv xml:lang="pt">
+    <seg>04. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. June 2015 - 11:06</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="555">
+   <tuv xml:lang="pt">
+    <seg>04. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. June 2015 - 12:09</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="556">
+   <tuv xml:lang="pt">
+    <seg>04. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. June 2015 - 15:47</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="557">
+   <tuv xml:lang="pt">
+    <seg>04. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. June 2015 - 13:16</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="558">
+   <tuv xml:lang="pt">
+    <seg>04. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. June 2015 - 18:59</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="559">
+   <tuv xml:lang="pt">
+    <seg>04. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. June 2015 - 12:43</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="560">
+   <tuv xml:lang="pt">
+    <seg>04. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. June 2015 - 10:03</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="561">
+   <tuv xml:lang="pt">
+    <seg>04. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. June 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="562">
+   <tuv xml:lang="pt">
+    <seg>04. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. June 2015 - 16:19</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="563">
+   <tuv xml:lang="pt">
+    <seg>04. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>13. June 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="564">
+   <tuv xml:lang="pt">
+    <seg>04. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>27. June 2015 - 10:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="565">
+   <tuv xml:lang="pt">
+    <seg>04 Junho 2015 | 19h 35</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 - 4 / 35</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="566">
+   <tuv xml:lang="pt">
+    <seg>04 Março 2015 | 19h 34</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>September 20, 2015 — 12:00AM</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="567">
+   <tuv xml:lang="pt">
+    <seg>04 Outubro 2015 | 11h 05</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05 October 2015, 11:37</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="568">
+   <tuv xml:lang="pt">
+    <seg>04 Outubro 2015 | 11h 05</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05 October 2015, 12:47</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="569">
+   <tuv xml:lang="pt">
+    <seg>04 Setembro 2015 | 00h 38</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-01T21:50:15-04:00 September 1, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="570">
+   <tuv xml:lang="pt">
+    <seg>04 Setembro 2015 | 17h 16</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-01T21:50:15-04:00 September 1, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="571">
+   <tuv xml:lang="pt">
+    <seg>05:00 - Hora Um</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Nguva dzeChinomwe Manheru 19:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="572">
+   <tuv xml:lang="pt">
+    <seg>05:00 – Hora Um</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Nguva dzeChinomwe Manheru 19:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="573">
+   <tuv xml:lang="pt">
+    <seg>05/09 / 16h / NAZARENÃO</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>04 Rinast (Kiwic - 80&apos; )</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="574">
+   <tuv xml:lang="pt">
+    <seg>05/09 / 16h / NAZARENÃO</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>16 Leupolz (Marozsan - 45&apos; )</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="575">
+   <tuv xml:lang="pt">
+    <seg>05/09 / 16h / NAZARENÃO</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>18 Delie (Diani - 84&apos; )</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="576">
+   <tuv xml:lang="pt">
+    <seg>05/10/2015 08:24:37 Em: Mais Esportes, Tênis</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>You are here: Home &gt; Sports &gt; Tennis</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="577">
+   <tuv xml:lang="pt">
+    <seg>05/10/2015 09:50:46 Em: Mais Esportes, Tênis</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>You are here: Home &gt; Sports &gt; Tennis</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="578">
+   <tuv xml:lang="pt">
+    <seg>05/10/2015 às 12:41 - Atualizado em 05/10/2015 às 12:41</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Updated: 09/14/2015 12:41 PM</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="579">
+   <tuv xml:lang="pt">
+    <seg>· 05.10.2015 / atualizado às 00:34</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 09:41</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="580">
+   <tuv xml:lang="pt">
+    <seg>· 05.10.2015 / atualizado às 09:24</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 21:56</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="581">
+   <tuv xml:lang="pt">
+    <seg>· 05.10.2015 / atualizado às 10:19</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 22:36</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="582">
+   <tuv xml:lang="pt">
+    <seg>· 05.10.2015 / atualizado às 11:15</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 21:56</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="583">
+   <tuv xml:lang="pt">
+    <seg>· 05.10.2015 / atualizado às 11:52</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 12:27</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="584">
+   <tuv xml:lang="pt">
+    <seg>· 05.10.2015 / atualizado às 12:45</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 22:36</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="585">
+   <tuv xml:lang="pt">
+    <seg>· 05.10.2015 / atualizado às 13:27</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 10:26</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="586">
+   <tuv xml:lang="pt">
+    <seg>· 05.10.2015 / atualizado às 13:27</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 13:04</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="587">
+   <tuv xml:lang="pt">
+    <seg>· 05.10.2015 / atualizado às 13:27</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 13:40</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="588">
+   <tuv xml:lang="pt">
+    <seg>· 05.10.2015 / atualizado às 13:27</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 16:03</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="589">
+   <tuv xml:lang="pt">
+    <seg>· 05.10.2015 / atualizado às 16:03</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 06:45</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="590">
+   <tuv xml:lang="pt">
+    <seg>05 Agosto 2015 | 05h 55</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 - 5 of 55</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="591">
+   <tuv xml:lang="pt">
+    <seg>05 Agosto 2015 | 10h 37</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>30 Jun 2015S .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="592">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05:01 GMT, Aug 08, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="593">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="594">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. August 2015 - 09:59</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="595">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="596">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. August 2015 - 15:05</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="597">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. August 2015 - 17:36</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="598">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. August 2015 - 21:45</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="599">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. August 2015 - 10:41</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="600">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. August 2015 - 16:43</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="601">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="602">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. August 2015 - 12:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="603">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. August 2015 - 12:50</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="604">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="605">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. August 2015 - 12:59</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="606">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. August 2015 - 14:13</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="607">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. August 2015 - 17:16</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="608">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="609">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 15:56</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="610">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 16:04</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="611">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 16:28</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="612">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 16:40</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="613">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="614">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. August 2015 - 11:09</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="615">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. August 2015 - 15:16</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="616">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. August 2015 - 17:24</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="617">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. August 2015 - 19:02</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="618">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>13. August 2015 - 09:28</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="619">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>13. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="620">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>13. August 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="621">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>13. August 2015 - 17:39</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="622">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. August 2015 - 08:59</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="623">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="624">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. August 2015 - 11:30</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="625">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. August 2015 - 12:51</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="626">
+   <tuv xml:lang="pt">
+    <seg>05. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. August 2015 - 17:53</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="627">
+   <tuv xml:lang="pt">
+    <seg>05 Agosto 2015 | 11h 30</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>: 10, 30 .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="628">
+   <tuv xml:lang="pt">
+    <seg>05 Agosto 2015 | 16h 21</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>: 11, 21 .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="629">
+   <tuv xml:lang="pt">
+    <seg>05 Agosto 2015 | 20h 09</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>: 2, 09 .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="630">
+   <tuv xml:lang="pt">
+    <seg>05 de agosto - CEPAS</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14 May - 31 August</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="631">
+   <tuv xml:lang="pt">
+    <seg>05 de agosto - CEPAS</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>(@femmemystique_) June 1, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="632">
+   <tuv xml:lang="pt">
+    <seg>05 de agosto - CEPAS</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Friday 7 August, 2015 ,</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="633">
+   <tuv xml:lang="pt">
+    <seg>05 de agosto - CEPAS</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday 6 August, 2015 ,</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="634">
+   <tuv xml:lang="pt">
+    <seg>05 de agosto de 1970</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday 16 July 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="635">
+   <tuv xml:lang="pt">
+    <seg>05 de agosto de 2002</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Monday 10 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="636">
+   <tuv xml:lang="pt">
+    <seg>05 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>13 May 2015N .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="637">
+   <tuv xml:lang="pt">
+    <seg>05 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>26 Jun 2015N .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="638">
+   <tuv xml:lang="pt">
+    <seg>05 de Agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Aug 14, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="639">
+   <tuv xml:lang="pt">
+    <seg>05 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>July 13, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="640">
+   <tuv xml:lang="pt">
+    <seg>05 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Monday 10 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="641">
+   <tuv xml:lang="pt">
+    <seg>05 de Agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Monday August 10, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="642">
+   <tuv xml:lang="pt">
+    <seg>05 de Agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Saturday 15 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="643">
+   <tuv xml:lang="pt">
+    <seg>05 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sunday August 9, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="644">
+   <tuv xml:lang="pt">
+    <seg>05 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday 13 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="645">
+   <tuv xml:lang="pt">
+    <seg>05 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Wednesday 12 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="646">
+   <tuv xml:lang="pt">
+    <seg>05 de julho de 1919</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Tuesday 20 January 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="647">
+   <tuv xml:lang="pt">
+    <seg>05 de Julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>July 13, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="648">
+   <tuv xml:lang="pt">
+    <seg>05 de Julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday 16 July 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="649">
+   <tuv xml:lang="pt">
+    <seg>05 de Junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sunday 14 June 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="650">
+   <tuv xml:lang="pt">
+    <seg>05 de junho (sexta-feira)</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Friday, June 5, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="651">
+   <tuv xml:lang="pt">
+    <seg>05 de Maio de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>May 15, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="652">
+   <tuv xml:lang="pt">
+    <seg>05 de setembro, 15h</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14 September 2015, 11:51</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="653">
+   <tuv xml:lang="pt">
+    <seg>05 de setembro, 15h</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-10T03:57:14-04:00 September 10, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="654">
+   <tuv xml:lang="pt">
+    <seg>05 de setembro, 15h</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-10T10:34:02-04:00 September 10, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="655">
+   <tuv xml:lang="pt">
+    <seg>05 de setembro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Jun 28, 2015 Jun 28, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="656">
+   <tuv xml:lang="pt">
+    <seg>05 de setembro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Monday 14 September 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="657">
+   <tuv xml:lang="pt">
+    <seg>05 de setembro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Monday September 14, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="658">
+   <tuv xml:lang="pt">
+    <seg>05 de setembro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Saturday 15 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="659">
+   <tuv xml:lang="pt">
+    <seg>05 de setembro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Saturday September 12, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="660">
+   <tuv xml:lang="pt">
+    <seg>05 de setembro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sep 13, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="661">
+   <tuv xml:lang="pt">
+    <seg>05 de setembro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sep 15, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="662">
+   <tuv xml:lang="pt">
+    <seg>05 de setembro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sunday 13 September 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="663">
+   <tuv xml:lang="pt">
+    <seg>05 de setembro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sunday 16 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="664">
+   <tuv xml:lang="pt">
+    <seg>05 de setembro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sunday September 13, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="665">
+   <tuv xml:lang="pt">
+    <seg>05 de setembro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday 17 September 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="666">
+   <tuv xml:lang="pt">
+    <seg>05 de setembro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday September 17, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="667">
+   <tuv xml:lang="pt">
+    <seg>05 de setembro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Tuesday 15 September 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="668">
+   <tuv xml:lang="pt">
+    <seg>05 de setembro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>U.S. September 11, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="669">
+   <tuv xml:lang="pt">
+    <seg>05 de setembro de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Wednesday September 9, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="670">
+   <tuv xml:lang="pt">
+    <seg>05 e 06 de agosto</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14 May - 31 August</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="671">
+   <tuv xml:lang="pt">
+    <seg>05 e 06 de agosto</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>— 3ChicsPolitico (@3ChicsPolitico) August 23, 2014</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="672">
+   <tuv xml:lang="pt">
+    <seg>05 e 06 de agosto</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>— AMNH (@AMNH) August 6, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="673">
+   <tuv xml:lang="pt">
+    <seg>05 e 06 de agosto</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>— Newsnish (@newsnish) May 11, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="674">
+   <tuv xml:lang="pt">
+    <seg>05 Julho 2015 | 03h 00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 of 2) 01.06.2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="675">
+   <tuv xml:lang="pt">
+    <seg>05. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. July 2015 - 10:45</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="676">
+   <tuv xml:lang="pt">
+    <seg>05. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. July 2015 - 15:33</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="677">
+   <tuv xml:lang="pt">
+    <seg>05. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. July 2015 - 16:30</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="678">
+   <tuv xml:lang="pt">
+    <seg>05. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="679">
+   <tuv xml:lang="pt">
+    <seg>05. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. July 2015 - 20:47</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="680">
+   <tuv xml:lang="pt">
+    <seg>05. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="681">
+   <tuv xml:lang="pt">
+    <seg>05. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. July 2015 - 15:21</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="682">
+   <tuv xml:lang="pt">
+    <seg>05. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. July 2015 - 20:42</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="683">
+   <tuv xml:lang="pt">
+    <seg>05. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="684">
+   <tuv xml:lang="pt">
+    <seg>05. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 15:03</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="685">
+   <tuv xml:lang="pt">
+    <seg>05. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. July 2015 - 10:58</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="686">
+   <tuv xml:lang="pt">
+    <seg>05. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="687">
+   <tuv xml:lang="pt">
+    <seg>05. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. July 2015 - 11:36</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="688">
+   <tuv xml:lang="pt">
+    <seg>05. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05. June 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="689">
+   <tuv xml:lang="pt">
+    <seg>05. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. June 2015 - 14:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="690">
+   <tuv xml:lang="pt">
+    <seg>05. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. June 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="691">
+   <tuv xml:lang="pt">
+    <seg>05. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. June 2015 - 12:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="692">
+   <tuv xml:lang="pt">
+    <seg>05. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. June 2015 - 13:32</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="693">
+   <tuv xml:lang="pt">
+    <seg>05. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. June 2015 - 18:16</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="694">
+   <tuv xml:lang="pt">
+    <seg>05. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. June 2015 - 11:06</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="695">
+   <tuv xml:lang="pt">
+    <seg>05. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. June 2015 - 15:47</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="696">
+   <tuv xml:lang="pt">
+    <seg>05. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. June 2015 - 18:21</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="697">
+   <tuv xml:lang="pt">
+    <seg>05. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. June 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="698">
+   <tuv xml:lang="pt">
+    <seg>05. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. June 2015 - 12:43</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="699">
+   <tuv xml:lang="pt">
+    <seg>05. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. June 2015 - 10:03</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="700">
+   <tuv xml:lang="pt">
+    <seg>05. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. June 2015 - 16:19</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="701">
+   <tuv xml:lang="pt">
+    <seg>05. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>13. June 2015 - 11:17</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="702">
+   <tuv xml:lang="pt">
+    <seg>05. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>13. June 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="703">
+   <tuv xml:lang="pt">
+    <seg>05. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. June 2015 - 12:02</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="704">
+   <tuv xml:lang="pt">
+    <seg>05. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. June 2015 - 13:52</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="705">
+   <tuv xml:lang="pt">
+    <seg>05 Junho 2015 | 11h 50</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 - 4 / 50</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="706">
+   <tuv xml:lang="pt">
+    <seg>05. Outubro 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10:21 GMT, Oct 09, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="707">
+   <tuv xml:lang="pt">
+    <seg>05. Outubro 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>22:29 GMT, Oct 09, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="708">
+   <tuv xml:lang="pt">
+    <seg>05 Outubro 2015 | 11h 06</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06 October 2015, 01:43</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="709">
+   <tuv xml:lang="pt">
+    <seg>05 Outubro 2015 | 19h 06</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06 October 2015, 11:56</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="710">
+   <tuv xml:lang="pt">
+    <seg>05 Outubro 2015 | 19h 08</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08 October 2015, 06:58</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="711">
+   <tuv xml:lang="pt">
+    <seg>05 Setembro 2015 | 03h 00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-01T21:50:15-04:00 September 1, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="712">
+   <tuv xml:lang="pt">
+    <seg>05 Setembro 2015 | 03h 00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-11T04:06:15-04:00 September 11, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="713">
+   <tuv xml:lang="pt">
+    <seg>05 Setembro 2015 | 12h 48</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-01T21:50:15-04:00 September 1, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="714">
+   <tuv xml:lang="pt">
+    <seg>05 Setembro 2015 | 17h 00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-11T04:06:15-04:00 September 11, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="715">
+   <tuv xml:lang="pt">
+    <seg>05 Setembro 2015 | 17h 17</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-11T04:06:15-04:00 September 11, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="716">
+   <tuv xml:lang="pt">
+    <seg>06 07 11 14 15</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-11T15:06:18-04:00 September 11, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="717">
+   <tuv xml:lang="pt">
+    <seg>06/10/2015 07:48:43 Em: Mais Esportes, Tênis</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>You are here: Home &gt; Sports &gt; Tennis</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="718">
+   <tuv xml:lang="pt">
+    <seg>06/10/2015 08:59:34 Em: Mais Esportes, Tênis</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>You are here: Home &gt; Sports &gt; Tennis</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="719">
+   <tuv xml:lang="pt">
+    <seg>06/10/2015 13:12:33 Em: Mais Esportes, Tênis</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>You are here: Home &gt; Sports &gt; Tennis</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="720">
+   <tuv xml:lang="pt">
+    <seg>06/10/2015 14:55:33 Em: Mais Esportes, Tênis</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>You are here: Home &gt; Sports &gt; Tennis</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="721">
+   <tuv xml:lang="pt">
+    <seg>· 06.10.2015 / atualizado às 11:10</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 17:12</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="722">
+   <tuv xml:lang="pt">
+    <seg>· 06.10.2015 / atualizado às 11:10</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 18:12</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="723">
+   <tuv xml:lang="pt">
+    <seg>· 06.10.2015 / atualizado às 11:10</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Updated: 11 Sep 2015 10:00 GMT+02:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="724">
+   <tuv xml:lang="pt">
+    <seg>062, de 06 de abril de 2015.</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>— AdrianneHD (@AdrianneHaslet) May 15, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="725">
+   <tuv xml:lang="pt">
+    <seg>064.1 – Planaltina/Arapoangas – (Coobrataete)</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>© Copyright 1992-2015 .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="726">
+   <tuv xml:lang="pt">
+    <seg>064.1 – Planaltina/Arapoangas – (Coobrataete)</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>euros.Production’ . (Valerie Ndaruzaniye, 2011) .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="727">
+   <tuv xml:lang="pt">
+    <seg>064.1 – Planaltina/Arapoangas – (Coobrataete)</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>He was 29 .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="728">
+   <tuv xml:lang="pt">
+    <seg>06 Agosto 2015 | 00h 08</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>30 Jun 2015S .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="729">
+   <tuv xml:lang="pt">
+    <seg>06 Agosto 2015 | 08h 42</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>30 Jun 2015S .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="730">
+   <tuv xml:lang="pt">
+    <seg>06 Agosto 2015 | 10h 01</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>: 4, 01 .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="731">
+   <tuv xml:lang="pt">
+    <seg>06. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. August 2015 - 10:41</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="732">
+   <tuv xml:lang="pt">
+    <seg>06. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. August 2015 - 12:50</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="733">
+   <tuv xml:lang="pt">
+    <seg>06. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. August 2015 - 14:13</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="734">
+   <tuv xml:lang="pt">
+    <seg>06. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 13:37</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="735">
+   <tuv xml:lang="pt">
+    <seg>06. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. August 2015 - 17:59</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="736">
+   <tuv xml:lang="pt">
+    <seg>06. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>13. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="737">
+   <tuv xml:lang="pt">
+    <seg>06. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. August 2015 - 12:51</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="738">
+   <tuv xml:lang="pt">
+    <seg>06. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>15. August 2015 - 20:20</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="739">
+   <tuv xml:lang="pt">
+    <seg>06 Agosto 2015 | 12h 32</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>30 Jun 2015S .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="740">
+   <tuv xml:lang="pt">
+    <seg>06 de agosto –</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>18 September - 13 March</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="741">
+   <tuv xml:lang="pt">
+    <seg>06 de agosto de 2001</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Monday 10 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="742">
+   <tuv xml:lang="pt">
+    <seg>06 de agosto de 2001</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sunday 16 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="743">
+   <tuv xml:lang="pt">
+    <seg>06 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>26 Jun 2015N .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="744">
+   <tuv xml:lang="pt">
+    <seg>06 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Aug 10, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="745">
+   <tuv xml:lang="pt">
+    <seg>06 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Monday 10 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="746">
+   <tuv xml:lang="pt">
+    <seg>06 de Agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Monday 10 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="747">
+   <tuv xml:lang="pt">
+    <seg>06 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Saturday 15 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="748">
+   <tuv xml:lang="pt">
+    <seg>06 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Saturday August 15, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="749">
+   <tuv xml:lang="pt">
+    <seg>06 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sunday 16 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="750">
+   <tuv xml:lang="pt">
+    <seg>06 de Agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sunday 16 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="751">
+   <tuv xml:lang="pt">
+    <seg>06 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sunday 24 May 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="752">
+   <tuv xml:lang="pt">
+    <seg>06 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sunday August 9, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="753">
+   <tuv xml:lang="pt">
+    <seg>06 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday August 13, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="754">
+   <tuv xml:lang="pt">
+    <seg>06 de Agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday August 7, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="755">
+   <tuv xml:lang="pt">
+    <seg>06 de Julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>July 11, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="756">
+   <tuv xml:lang="pt">
+    <seg>06 de Julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Wednesday 15 July 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="757">
+   <tuv xml:lang="pt">
+    <seg>06 de Junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>June 13, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="758">
+   <tuv xml:lang="pt">
+    <seg>06 de Junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Monday 15 June 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="759">
+   <tuv xml:lang="pt">
+    <seg>06 de Junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Saturday 13 June 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="760">
+   <tuv xml:lang="pt">
+    <seg>06 de Junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Wednesday 17 June 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="761">
+   <tuv xml:lang="pt">
+    <seg>06 de outubro, às 17h</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14 September 2015, 13:15</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="762">
+   <tuv xml:lang="pt">
+    <seg>06 de outubro, às 17h</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>AUGUST 31, 2015 07:06.</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="763">
+   <tuv xml:lang="pt">
+    <seg>06 de outubro, às 17h</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>SEPTEMBER 16, 2015 07:14.</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="764">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 10:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. July 2015 - 10:45</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="765">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 10:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. July 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="766">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 10:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. July 2015 - 14:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="767">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 10:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 21:04</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="768">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 10:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. July 2015 - 12:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="769">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 10:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>13. July 2015 - 10:57</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="770">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 10:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. July 2015 - 10:58</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="771">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 10:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>15. July 2015 - 10:49</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="772">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 10:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>30. June 2015 - 10:58</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="773">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="774">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="775">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. July 2015 - 11:20</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="776">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. July 2015 - 20:47</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="777">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. June 2015 - 12:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="778">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="779">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. July 2015 - 13:54</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="780">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. July 2015 - 14:40</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="781">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="782">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. July 2015 - 14:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="783">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. July 2015 - 15:21</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="784">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. July 2015 - 20:42</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="785">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="786">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 21:04</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="787">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="788">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. July 2015 - 12:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="789">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="790">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. July 2015 - 11:36</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="791">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>15. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="792">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>15. July 2015 - 13:30</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="793">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>15. July 2015 - 13:37</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="794">
+   <tuv xml:lang="pt">
+    <seg>06. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Updated: 06 Jul 2015 12:55 GMT+02:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="795">
+   <tuv xml:lang="pt">
+    <seg>06 Julho 2015 | 18h 03</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>16:00 ,2015 تموز 03</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="796">
+   <tuv xml:lang="pt">
+    <seg>06 Junho 2015 | 20h 39</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 - 4 / 39</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="797">
+   <tuv xml:lang="pt">
+    <seg>06 Maio 2015 | 10h 10</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 - 5 / 10</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="798">
+   <tuv xml:lang="pt">
+    <seg>06. Maio 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. May 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="799">
+   <tuv xml:lang="pt">
+    <seg>06. Maio 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>15. May 2015 - 16:56</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="800">
+   <tuv xml:lang="pt">
+    <seg>06. Maio 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>15. May 2015 - 21:24</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="801">
+   <tuv xml:lang="pt">
+    <seg>06 Outubro 2015 | 02h 06</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06 October 2015, 11:56</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="802">
+   <tuv xml:lang="pt">
+    <seg>06 Outubro 2015 | 02h 06</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06 October 2015, 13:05</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="803">
+   <tuv xml:lang="pt">
+    <seg>06 Outubro 2015 | 06h 08</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08 October 2015, 06:58</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="804">
+   <tuv xml:lang="pt">
+    <seg>06 Outubro 2015 | 10h 06</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06 October 2015, 11:56</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="805">
+   <tuv xml:lang="pt">
+    <seg>06 Outubro 2015 | 16h 08</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08 October 2015, 06:58</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="806">
+   <tuv xml:lang="pt">
+    <seg>06 Outubro 2015 | 18h 06</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06 October 2015, 08:11</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="807">
+   <tuv xml:lang="pt">
+    <seg>06 Outubro 2015 | 18h 06</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>October 06, 2015 4:08 PM</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="808">
+   <tuv xml:lang="pt">
+    <seg>06 Outubro 2015 | 20h 05</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05 October 2015, 12:47</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="809">
+   <tuv xml:lang="pt">
+    <seg>06 Setembro 2015 | 03h 00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-01T21:50:15-04:00 September 1, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="810">
+   <tuv xml:lang="pt">
+    <seg>06 Setembro 2015 | 03h 00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-11T04:06:15-04:00 September 11, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="811">
+   <tuv xml:lang="pt">
+    <seg>06 Setembro 2015 | 03h 00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>September 20, 2015 — 12:00AM</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="812">
+   <tuv xml:lang="pt">
+    <seg>06 Setembro 2015 | 05h 00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-11T04:06:15-04:00 September 11, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="813">
+   <tuv xml:lang="pt">
+    <seg>07/10/2015 às 07:08 - Atualizado em 07/10/2015 às 07:08</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>September 15, 2015 7:08 AM</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="814">
+   <tuv xml:lang="pt">
+    <seg>07:35 - Morre, aos 89 anos, a lenda do blues B.B. King</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Blues Legend B.B. King Dead at 89</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="815">
+   <tuv xml:lang="pt">
+    <seg>07:35 - Morre, aos 89 anos, a lenda do blues B.B. King</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Blues legend B.B. King dies at 89</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="816">
+   <tuv xml:lang="pt">
+    <seg>07:35 - Morre, aos 89 anos, a lenda do blues B.B. King</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Blues legend B.B. King dies at 89 .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="817">
+   <tuv xml:lang="pt">
+    <seg>07:35 - Morre, aos 89 anos, a lenda do blues B.B. King</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Blues legend B.B. King dies at age 89</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="818">
+   <tuv xml:lang="pt">
+    <seg>07:35 - Morre, aos 89 anos, a lenda do blues B.B. King</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>&apos;King of the Blues&apos; guitarist B.B. King, dead at age 89</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="819">
+   <tuv xml:lang="pt">
+    <seg>07. Abril 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. August 2015 - 10:41</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="820">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>02. August 2015 - 12:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="821">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="822">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="823">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. August 2015 - 12:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="824">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. August 2015 - 12:50</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="825">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="826">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. August 2015 - 12:59</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="827">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. August 2015 - 14:13</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="828">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. August 2015 - 17:16</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="829">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 13:37</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="830">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 15:56</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="831">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 16:04</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="832">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 16:28</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="833">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. August 2015 - 16:40</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="834">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. August 2015 - 11:09</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="835">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. August 2015 - 15:16</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="836">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. August 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="837">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. August 2015 - 17:59</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="838">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>13. August 2015 - 09:28</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="839">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>13. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="840">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>13. August 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="841">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>13. August 2015 - 17:39</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="842">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. August 2015 - 08:59</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="843">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="844">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. August 2015 - 11:30</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="845">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. August 2015 - 12:51</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="846">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. August 2015 - 17:53</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="847">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>15. August 2015 - 16:01</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="848">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>15. August 2015 - 20:20</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="849">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>16. August 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="850">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>16. August 2015 - 12:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="851">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>16. August 2015 - 13:06</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="852">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>16. August 2015 - 14:17</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="853">
+   <tuv xml:lang="pt">
+    <seg>07. Agosto 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>16. August 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="854">
+   <tuv xml:lang="pt">
+    <seg>07 Agosto 2015 | 16h 17</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>30 Jun 2015S .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="855">
+   <tuv xml:lang="pt">
+    <seg>07 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>26 Jun 2015N .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="856">
+   <tuv xml:lang="pt">
+    <seg>07 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Monday 10 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="857">
+   <tuv xml:lang="pt">
+    <seg>07 de Agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Monday 10 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="858">
+   <tuv xml:lang="pt">
+    <seg>07 de Agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Saturday August 15, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="859">
+   <tuv xml:lang="pt">
+    <seg>07 de Agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Saturday August 9, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="860">
+   <tuv xml:lang="pt">
+    <seg>07 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sunday 16 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="861">
+   <tuv xml:lang="pt">
+    <seg>07 de Agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sunday 16 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="862">
+   <tuv xml:lang="pt">
+    <seg>07 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sunday August 16, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="863">
+   <tuv xml:lang="pt">
+    <seg>07 de Agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sunday August 16, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="864">
+   <tuv xml:lang="pt">
+    <seg>07 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday August 13, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="865">
+   <tuv xml:lang="pt">
+    <seg>07 de Agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday August 13, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="866">
+   <tuv xml:lang="pt">
+    <seg>07 de agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Wednesday 12 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="867">
+   <tuv xml:lang="pt">
+    <seg>07 de julho de 2007 .</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Reuters, Thursday 2 Jul 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="868">
+   <tuv xml:lang="pt">
+    <seg>07 de julho de 2007 .</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Saturday 20 June 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="869">
+   <tuv xml:lang="pt">
+    <seg>07 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>April 10, 2015 .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="870">
+   <tuv xml:lang="pt">
+    <seg>07 de julho de 2015 às 13h09</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14 July 2015, 18:28</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="871">
+   <tuv xml:lang="pt">
+    <seg>07 de julho de 2015 às 13h09</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>6:10 am, July 16, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="872">
+   <tuv xml:lang="pt">
+    <seg>07 de julho de 2015 às 13h09</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>June 15, 2015 2:54 PM</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="873">
+   <tuv xml:lang="pt">
+    <seg>07 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>July 12, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="874">
+   <tuv xml:lang="pt">
+    <seg>07 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>July 13, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="875">
+   <tuv xml:lang="pt">
+    <seg>07 de julho (terça-feira)</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday, July 9, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="876">
+   <tuv xml:lang="pt">
+    <seg>07 de Junho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>June 10, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="877">
+   <tuv xml:lang="pt">
+    <seg>07 de maio de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>May 15, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="878">
+   <tuv xml:lang="pt">
+    <seg>07 de Maio de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>May 16, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="879">
+   <tuv xml:lang="pt">
+    <seg>07 de maio de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>May 16 Vingroup Jsc</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="880">
+   <tuv xml:lang="pt">
+    <seg>07 de Maio de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>May 17, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="881">
+   <tuv xml:lang="pt">
+    <seg>07 de maio de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Saturday 16 May 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="882">
+   <tuv xml:lang="pt">
+    <seg>07 de Maio de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Saturday 16 May 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="883">
+   <tuv xml:lang="pt">
+    <seg>07 de maio de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sunday 17 May 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="884">
+   <tuv xml:lang="pt">
+    <seg>07 de Maio de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sunday 17 May 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="885">
+   <tuv xml:lang="pt">
+    <seg>- 07 de setembro: A França se compromete a aceitar 24.000 refugiados em dois anos .</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>France will welcome 24,000 refugees over the next two years .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="886">
+   <tuv xml:lang="pt">
+    <seg>07 de setembro de 2015 | 12h 00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-11T04:06:15-04:00 September 11, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="887">
+   <tuv xml:lang="pt">
+    <seg>• 07 e 08 de agosto – Jaborandi</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>— EarthSky (@earthskyscience) August 8, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="888">
+   <tuv xml:lang="pt">
+    <seg>07h30 – Empoli 1 x 0 Sassuolo</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Sassuolo 2 - 2 Atalanta FT</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="889">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>03. June 2015 - 14:51</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="890">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>04. June 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="891">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. July 2015 - 11:20</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="892">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. July 2015 - 20:47</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="893">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07. June 2015 - 12:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="894">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. July 2015 - 13:54</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="895">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. July 2015 - 15:32</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="896">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. July 2015 - 09:16</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="897">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. July 2015 - 15:21</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="898">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. July 2015 - 20:42</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="899">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="900">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 14:15</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="901">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 15:03</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="902">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="903">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. July 2015 - 21:04</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="904">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. June 2015 - 16:50</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="905">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="906">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. July 2015 - 12:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="907">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. July 2015 - 14:17</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="908">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>13. July 2015 - 10:57</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="909">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. July 2015 - 10:58</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="910">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="911">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. July 2015 - 11:36</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="912">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. July 2015 - 14:04</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="913">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>15. July 2015 - 10:49</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="914">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>15. July 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="915">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>15. July 2015 - 13:30</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="916">
+   <tuv xml:lang="pt">
+    <seg>07. Julho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>15. July 2015 - 13:37</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="917">
+   <tuv xml:lang="pt">
+    <seg>07 Junho 2015 | 07h 17</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 - 2 / 17</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="918">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. June 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="919">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. June 2015 - 11:06</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="920">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. June 2015 - 12:09</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="921">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08. June 2015 - 15:47</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="922">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. June 2015 - 13:16</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="923">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>09. June 2015 - 20:56</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="924">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. June 2015 - 10:44</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="925">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. June 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="926">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. June 2015 - 11:50</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="927">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10. June 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="928">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. June 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="929">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. June 2015 - 12:43</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="930">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>11. June 2015 - 16:50</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="931">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. June 2015 - 10:03</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="932">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. June 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="933">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. June 2015 - 16:19</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="934">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12. June 2015 - 22:15</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="935">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>13. June 2015 - 11:17</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="936">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>13. June 2015 - 17:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="937">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. June 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="938">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. June 2015 - 13:52</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="939">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>14. June 2015 - 16:09</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="940">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>15. June 2015 - 10:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="941">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>15. June 2015 - 11:57</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="942">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>15. June 2015 - 16:08</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="943">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>15. June 2015 - 20:12</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="944">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>16. June 2015 - 08:46</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="945">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>16. June 2015 - 11:00</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="946">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>16. June 2015 - 14:53</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="947">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>16. June 2015 - 21:50</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="948">
+   <tuv xml:lang="pt">
+    <seg>07. Junho 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>18. June 2015 - 11:37</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="949">
+   <tuv xml:lang="pt">
+    <seg>07. Maio 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>15. May 2015 - 11:35</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="950">
+   <tuv xml:lang="pt">
+    <seg>07. Maio 2015 - 11:00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>16. May 2015 - 17:23</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="951">
+   <tuv xml:lang="pt">
+    <seg>07 Outubro 2015 | 09h 05</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05 October 2015, 12:47</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="952">
+   <tuv xml:lang="pt">
+    <seg>07 Outubro 2015 | 10h 05</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>05 October 2015, 12:47</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="953">
+   <tuv xml:lang="pt">
+    <seg>07 Outubro 2015 | 10h 07</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>07 October 2015, 14:21</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="954">
+   <tuv xml:lang="pt">
+    <seg>07 Outubro 2015 | 11h 06</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>06 October 2015, 11:56</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="955">
+   <tuv xml:lang="pt">
+    <seg>07 Outubro 2015 | 13h 08</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>08 October 2015, 06:58</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="956">
+   <tuv xml:lang="pt">
+    <seg>07 Setembro 2015 | 04h 00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-11T04:06:15-04:00 September 11, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="957">
+   <tuv xml:lang="pt">
+    <seg>07 Setembro 2015 | 07h 00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-11T04:06:15-04:00 September 11, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="958">
+   <tuv xml:lang="pt">
+    <seg>07 Setembro 2015 | 10h 45</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-11T04:06:15-04:00 September 11, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="959">
+   <tuv xml:lang="pt">
+    <seg>07 Setembro 2015 | 11h 36</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-11T04:06:15-04:00 September 11, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="960">
+   <tuv xml:lang="pt">
+    <seg>07 Setembro 2015 | 16h 18</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-11T04:06:15-04:00 September 11, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="961">
+   <tuv xml:lang="pt">
+    <seg>07 Setembro 2015 | 19h 21</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 (11 Sep 15)</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="962">
+   <tuv xml:lang="pt">
+    <seg>08:00 – Café com jornal</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>10:00 AM: Breakfast at Konditerskaya Lavka</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="963">
+   <tuv xml:lang="pt">
+    <seg>08/05 – França – Le Mans</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>May 8 - France (Le Mans)</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="964">
+   <tuv xml:lang="pt">
+    <seg>08/07/2015 - 09:41:49 ?</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>July 14, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="965">
+   <tuv xml:lang="pt">
+    <seg>08/ 07 - Lailtinho</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 - 4 / 18</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="966">
+   <tuv xml:lang="pt">
+    <seg>08/ 07 - Lailtinho</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 - 4 / 28</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="967">
+   <tuv xml:lang="pt">
+    <seg>08/ 07 - Lailtinho</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 - 4 / 6</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="968">
+   <tuv xml:lang="pt">
+    <seg>08/ 07 - Lailtinho</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>left 1 of 3 right</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="969">
+   <tuv xml:lang="pt">
+    <seg>08 09 10 11 13</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 - 4 / 11</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="970">
+   <tuv xml:lang="pt">
+    <seg>08 09 10 12 13</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>12 Chistoprudny Bulvar .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="971">
+   <tuv xml:lang="pt">
+    <seg>08 09 10 12 13</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>2015-09-11T15:06:18-04:00 September 11, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="972">
+   <tuv xml:lang="pt">
+    <seg>08 09 10 12 13</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>September 20, 2015 — 12:00AM</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="973">
+   <tuv xml:lang="pt">
+    <seg>· 08.10.2015 / atualizado às 11:11</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 16:56</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="974">
+   <tuv xml:lang="pt">
+    <seg>· 08.10.2015 / atualizado às 17:26</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Last updated at 11:19</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="975">
+   <tuv xml:lang="pt">
+    <seg>08:27 - Disney anuncia construção de dois parques temáticos de Star Wars</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Disney announces creation of &apos;Star Wars&apos; theme parks</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="976">
+   <tuv xml:lang="pt">
+    <seg>08:27 - Disney anuncia construção de dois parques temáticos de Star Wars</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Disney announces creation of &apos;Star Wars&apos; theme parks - Aug. 15, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="977">
+   <tuv xml:lang="pt">
+    <seg>08:27 - Disney anuncia construção de dois parques temáticos de Star Wars</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Disney to open &apos;Star Wars&apos;-themed parks 01:12</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="978">
+   <tuv xml:lang="pt">
+    <seg>08:30Chef por um dia</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>15 Sjogran (Appelqvist - 75&apos; )</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="979">
+   <tuv xml:lang="pt">
+    <seg>08 – 365 Psd</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>1 - 2 / 8</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="980">
+   <tuv xml:lang="pt">
+    <seg>08 – 365 Psd</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>59424666, for $349.99 .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="981">
+   <tuv xml:lang="pt">
+    <seg>08:50 – Mais Você</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Fosfobox – 11:30 PM</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="982">
+   <tuv xml:lang="pt">
+    <seg>08 Agosto 2015 | 07h 00</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>30 Jun 2015S .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="983">
+   <tuv xml:lang="pt">
+    <seg>08 Agosto 2015 | 12h 57</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>30 Jun 2015S .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="984">
+   <tuv xml:lang="pt">
+    <seg>08 Agosto 2015 | 17h 09</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>30 Jun 2015S .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="985">
+   <tuv xml:lang="pt">
+    <seg>08 Agosto 2015 | 18h 17</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>30 Jun 2015S .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="986">
+   <tuv xml:lang="pt">
+    <seg>08 Agosto 2015 | 21h 33</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>30 Jun 2015S .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="987">
+   <tuv xml:lang="pt">
+    <seg>08 Agosto 2015 | 21h 49</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>30 Jun 2015S .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="988">
+   <tuv xml:lang="pt">
+    <seg>08 Agosto 2015 | 22h 37</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>30 Jun 2015S .</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="989">
+   <tuv xml:lang="pt">
+    <seg>08 de Agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Aug 15, 2015 –</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="990">
+   <tuv xml:lang="pt">
+    <seg>08 de Agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Monday 10 August 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="991">
+   <tuv xml:lang="pt">
+    <seg>08 de Agosto de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Monday August 17, 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="992">
+   <tuv xml:lang="pt">
+    <seg>08 de julho, 15h</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>, July 5, 2015 2:41 AM</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="993">
+   <tuv xml:lang="pt">
+    <seg>08 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>July 13, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="994">
+   <tuv xml:lang="pt">
+    <seg>08 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>July 16, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="995">
+   <tuv xml:lang="pt">
+    <seg>08 de Julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>July 18, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="996">
+   <tuv xml:lang="pt">
+    <seg>08 de Julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>June 30, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="997">
+   <tuv xml:lang="pt">
+    <seg>08 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>May 7, 2015 |</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="998">
+   <tuv xml:lang="pt">
+    <seg>08 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday 16 July 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="999">
+   <tuv xml:lang="pt">
+    <seg>08 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday 30 April 2015</seg>
+   </tuv>
+  </tu>
+
+  <tu tuid="1000">
+   <tuv xml:lang="pt">
+    <seg>08 de julho de 2015</seg>
+   </tuv>
+   <tuv xml:lang="en">
+    <seg>Thursday July 16, 2015</seg>
+   </tuv>
+  </tu>
+
+
+ </body>
+</tmx>

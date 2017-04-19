@@ -1,0 +1,337 @@
+/**
+ * Copyright 2015 IBM Corp.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ **/
+
+/* Projects header */
+.home-title-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.home-title-container .projects-heading {
+    flex: 1;
+    min-width: 200px;
+}
+
+.home-title-container .helper-text-border {
+  float: left;
+  margin: 1.5em 1em 1em 1em;
+}
+
+.home-filter {
+    display: inline-block;
+}
+
+.home-filter > * {
+    display: inline-block;
+}
+
+.home-filter .ibm-form__search {
+  height: 34px;
+  border: 1px solid #6D7777;
+  background: no-repeat url("../assets/images/filter.svg");
+  background-size: 1.3em;
+  background-position: .8em .4em;
+  min-width: 200px;
+  padding: .4em 1em .2em 2.6em;
+  margin-right: 1em;
+}
+
+.home-filter .ibm-dropdown {
+  margin-right: 1em;
+}
+
+.home-filter .ibm-dropdown .btn {
+  height: 34px;
+  line-height: 1.6em;
+  min-width: 200px;
+  text-align: left;
+  padding: .4em 1em .2em;
+}
+
+.btn-group .btn .ibm {
+  margin: 0;
+  font-size: 1em;
+  padding: 3px 0 0 0;
+}
+
+/* Header media queries */
+@media (max-width: 700px) {
+  .home-filter {
+    width: 100%;
+    padding: 0.5em;
+  }
+
+  .home-filter .ibm-form__search {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .home-filter .ibm-dropdown {
+    width: calc(100% - 55px);
+    margin-right: 0;
+  }
+
+  .home-filter .ibm-dropdown .btn {
+    width: 100%;
+  }
+}
+
+.project-edit-heading {
+  padding: 0 1em;
+}
+
+/* Placeholder add project */
+.form-control::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+  color: #5A6464;
+  line-height: 1.5em;
+}
+
+.form-control:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+  color: #5A6464;
+  opacity: 1;
+}
+
+.form-control::-moz-placeholder { /* Mozilla Firefox 19+ */
+  color: #5A6464;
+  opacity: 1;
+}
+
+.form-control:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #5A6464;
+}
+
+/* Add project panel */
+.ibm-panel.ibm-panel--add-project {
+  width: 100%;
+  padding: 4.5em 2em;
+  text-align: center;
+  background-color: transparent;
+  box-shadow: none;
+  cursor: pointer;
+}
+
+.prj--item:hover .ibm-panel--add-project {
+  background-color: #DFE9E9;
+}
+
+.prj--item .ibm-panel--add-project .add-project-btn {
+  margin-bottom: 2em;
+}
+
+.prj--item .ibm-panel--add-project .add-project-btn .add-project-label {
+  margin-top: .5em;
+  display: block;
+}
+
+.prj--item .ibm-panel--add-project .add-project-btn .ibm {
+  vertical-align: middle;
+  font-size: 3em;
+}
+
+.collapsing {
+  -webkit-transition: none;
+  transition: none;
+}
+
+.new-project {
+  padding: 0 .5em;
+}
+
+.base-model-label {
+  margin-bottom: 5px;
+}
+
+.ibm-panel {
+  display: block;
+  border: none;
+  height: 100%;
+}
+
+.ibm-panel .panel-heading {
+  min-height: 60px;
+}
+
+.ibm-panel .add-project-heading {
+  font-family: "HelvNeueBoldforIBM";
+  color: #333;
+  background: white;
+}
+
+.ibm-panel .ibm-btn.add-project-panel-btn {
+  float: right;
+}
+
+.new-project-select {
+  border-radius: 0;
+  -webkit-appearance: none;
+  background-position: right 50%;
+  background-repeat: no-repeat;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAMCAYAAABSgIzaAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NDZFNDEwNjlGNzFEMTFFMkJEQ0VDRTM1N0RCMzMyMkIiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NDZFNDEwNkFGNzFEMTFFMkJEQ0VDRTM1N0RCMzMyMkIiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo0NkU0MTA2N0Y3MUQxMUUyQkRDRUNFMzU3REIzMzIyQiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo0NkU0MTA2OEY3MUQxMUUyQkRDRUNFMzU3REIzMzIyQiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PuGsgwQAAAA5SURBVHjaYvz//z8DOYCJgUxAf42MQIzTk0D/M+KzkRGPoQSdykiKJrBGpOhgJFYTWNEIiEeAAAMAzNENEOH+do8AAAAASUVORK5CYII=);
+}
+
+/* Projects */
+.project-list {
+    min-height: calc(100vh - 196px);
+}
+
+.projects-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Add Project */
+.project-body {
+  min-height: 142px;
+  margin: 10px 0;
+}
+
+.add-projects-prompt {
+  text-align: center;
+  margin-top: 150px;
+}
+
+/* Project Panel */
+
+/* Project header */
+.ibm-panel__heading {
+  padding: .8em .5em .7em 1.5em;
+}
+
+.ibm-panel__heading .project-name {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.ibm-panel__heading .btn {
+  float: right;
+  color: #5A6464;
+}
+
+.ibm-panel__heading .project-edit-heading {
+  font-size: 1.25em;
+  padding: 0.25em 0 0 0.5em;
+  margin-top: -0.25em;
+  width: calc(100% - 1em);
+}
+
+.ibm-panel__heading .project-edit-close {
+  font-size: 2em;
+  margin: -.1em 0 0 0;
+  float: right;
+}
+
+/* Project body */
+.project-body {
+  margin: 0;
+  height: 192px;
+}
+
+/* Project table  */
+.project-table {
+  margin: 0 1em 0 1em;
+  width: calc(100% - 2em);
+  table-layout: fixed;
+}
+
+.project-table .project-table-key {
+  font-family: "HelvNeueBoldforIBM";
+  color: #323C3C;
+  line-height: 1.5;
+  width: 110px;
+}
+
+.project-table .project-table-value {
+  line-height: 1.5;
+}
+
+.project-table .project-table-key,
+.project-table .project-table-value, {
+  padding: .8em .5em;
+  vertical-align: top;
+  overflow: hidden;
+  word-wrap: break-word;
+  text-overflow: ellipsis;
+}
+
+.btn-default.disabled {
+  border-color: #AEB8B8;
+  color: #AEB8B8;
+}
+
+/* Enter Project Button */
+.project-button {
+    float: right;
+    margin-top: 30px;
+}
+
+.prj--item--add .project-button {
+    margin-bottom: 15px;
+    margin-right: 15px;
+}
+
+.project-button .enter-project-button {
+  height: 3em;
+  padding: 0 20px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.project-button .add-project-panel-btn {
+  margin: 0 10px 10px 0;
+}
+/*
+.ibm-panel:hover .project-button .enter-project-button {
+  background-color: #325C80;
+}
+*/
+.project-button .enter-project-button span, .project-button .add-project-panel-btn span {
+  font-size: 1.2em;
+  vertical-align: middle;
+}
+
+.close-btn {
+  margin: -2.4em 1em 0 0;
+  z-index: 100;
+  position: relative;
+  color: #325C80;
+}
+
+.project-button .cancel-btn {
+  color: #325C80;
+}
+
+.project-button .cancel-btn:hover * {
+  color: #264A60;
+  border-bottom: 1px solid #264A60;
+}
+
+.project-icon-btn {
+  padding: .5em;
+}
+
+.project-button .btn .ibm {
+  vertical-align: middle;
+}
+
+/* Buttons */
+.btn-transparent, .btn-transparent:hover, .btn-transparent:focus, .btn-transparent:active {
+  height: 100%;
+  background: none;
+  border: none;
+  box-shadow: none;
+  text-align: left;
+}

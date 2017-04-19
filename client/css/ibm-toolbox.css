@@ -1,0 +1,229 @@
+/**
+ * Copyright 2015 IBM Corp.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ **/
+
+/* ======================================== */
+/* ============ General Styles ============ */
+/* ======================================== */
+html {height: 100%; width: 100%;}
+
+/* Accordions */
+.ibm-accordion-group {background-color: transparent; padding: .5em 0; border-bottom: 1px solid rgba(224, 224, 224, .5); /*color: #2fcbff;*/}
+  .ibm-accordion-toggle p {color: #b3b3b3;}
+  .ibm-accordion-group a:hover {text-decoration: none; border: 0 solid transparent;}
+  .ibm-accordion-toggle .ibm-glyphicon {margin-right: .8em; transition: all .5s ease;}
+  .ibm-accordion-toggle[aria-expanded="false"] .ibm-glyphicon {transform: rotate(0deg);}
+  .ibm-accordion-toggle[aria-expanded="true"] .ibm-glyphicon {transform: rotate(90deg);}
+.ibm-accordion-body {padding-top: 1em; font-size: .9em;}
+  .ibm-accordion-body tr:hover {cursor: pointer;}
+  .ibm-accordion-body tr .ibm-td-actions-hover {visibility: hidden; text-align: right;}
+    .ibm-accordion-body tr .ibm-td-actions-hover a {margin-right: 1em; color: #777677;}
+  .ibm-accordion-body tr:hover .ibm-td-actions-hover {visibility: visible;}
+.ibm-accordion-group .ibm-row {padding-left: 2.1em;}
+  .ibm-accordion-body .ibm-accordion-inner {background-color: #F4F4F4;}
+  .ibm-accordion-body tr:first-child {/*border-top: 2px solid #4178be;*/}
+  .ibm-accordion-group .ibm-row label {line-height: 2; margin-bottom: 0;}
+    .ibm-accordion-body label {color: #fff;}
+
+    .ibm-td-pair {width: 70%;}
+    table tbody td.ibm-td-pair {line-height: 2.6em;}
+    .ibm-td-btn-upload {width: 10%;}
+    .ibm-td-btn-test {width: 10%;}
+
+/* Arrow Box - http://cssarrowplease.com */
+.ibm-arrow-box {position: relative; background: #4D6168; border: 1px solid #3B4B54; padding: 2em; margin: 1em 0;}
+  .ibm-arrow-box:after, .ibm-arrow-box:before {bottom: 100%; left: 3.5em; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none;}
+  .ibm-arrow-box:after {border-color: rgba(136, 183, 213, 0); border-bottom-color: #4D6168; border-width: 20px; margin-left: -20px;}
+  .ibm-arrow-box:before { border-color: rgba(194, 225, 245, 0); border-bottom-color: #3B4B54; border-width: 21px; margin-left: -21px;}
+
+/* Avatar */
+.ibm-avatar {height: 10em; width: 10em; margin: 0 auto 2em; background: no-repeat 0 0 / contain transparent;}
+.ibm-avatar-ben {background-image: url(../images/ben.svg);}
+.ibm-avatar-brenda {background-image: url(../images/brenda.svg);}
+.ibm-avatar-maria {background-image: url(../images/maria.svg);}
+
+/* Code */
+.ibm-code-wrap {position: relative; padding: .75em 1em; background-color: #212c36; border-radius: 8px;}
+  code {background-color: transparent; font-family: 'Source Code Pro'; color: #d1d9e1;}
+  .ibm-code-wrap .ibm-btn-copy {display: none; position: absolute; right: 1em; top: .5em; background-color: #2B8475; border: 0; color: #fff;}
+  .ibm-code-wrap:hover .ibm-btn-copy {display: inline;}
+
+tbody > tr.ibm-tr-collapse td {margin: 0; padding: 0;}
+
+/* Container */
+.ibm-container-fluid {padding-top: 2em; padding-bottom: 2em;}
+
+/* Dropdown */
+.ibm-dropdown {display: inline-block;}
+  .ibm-dropdown .ibm-link-highlight {color: #fff; border-color: #fff; font-family: "HelvNeueBoldforIBM";}
+  .ibm-dropdown-menu {padding: 0; background-color: #fff; border-radius: 0; font-size: 1em; color: #333;}
+  .ibm-dropdown-menu:hover {cursor: pointer;}
+    .ibm-content-style-overlay .ibm-modelname {font-family: "HelvNeueLightforIBM"; color: #fff; font-size: .8em;}
+      .ibm-content-style-overlay .ibm-badge {padding: 0.3em .4em 0em; background-color: transparent; border: 1px solid #fff; font-size: .8em; color: #fff;}
+
+
+/* File Upload */
+.ibm-table-upload {border-bottom: 2px solid #3c4646; margin-bottom: 3em;}
+  table.ibm-table-upload thead tr th {padding-left: 0; font-size: 1.2em;}
+  .ibm-drop-file {height: auto; margin: 2em auto 3em;}
+    .ibm-drop-file div {margin: 1em 0;}
+    .ibm-icon-upload {height: 6em; width: 6em; margin: 0 auto; background: url(../images/upload-export_128.svg) no-repeat 0 0 / contain; opacity: .2;}
+    .ibm-upload-sm {margin: 0 0 3em;}
+      .ibm-upload-sm .ibm-icon-upload {height: 1.5em; width: 1.5em; display: inline-block; margin-right: .5em; opacity: .4; vertical-align: middle;}
+.ibm-learned {}
+  table.ibm-learned thead tr th {padding-left: 2.5em; background: url(../images/IBM_Watson_avatar_simple_green.svg) no-repeat 0 0 / 1.8em 1.8em; color: #274872;}
+  table.ibm-table-upload-alert tbody th {border-color: #4178BE;}
+
+/* Header */
+.ibm-page-header {margin: 0 0 1em; background-color: #1A304C; border-bottom: 0; padding: 1em 0 0;}
+  .ibm-page-header h2 {margin: 0 0 .3em; font-size: .9em;}
+    .ibm-page-header h2 a {color: rgba(255, 255, 255, .3);}
+  .ibm-page-header h1 {font-family: "HelvNeueLightforIBM"; font-size: 1.5em; font-weight: normal; color: #fff;}
+    .ibm-page-header strong {text-transform: none;}
+    .ibm-page-header h1 a {font-family: "HelvNeueLightforIBM"; color: #fff;}
+.ibm-domain-name {border-bottom: 2px solid #6d7777; margin-bottom: 0;}
+
+/* Modal */
+.ibm-modal-test {height: 100%;}
+  .ibm-modal-dialog {height: 90%; width: 90%;}
+    .ibm-modal-content {height: 100%; border-radius: 0;}
+
+/* Nav */
+  .ibm-nav li a {border-radius: 0;}
+
+/* Panel */
+.ibm-panel-default {height: 100%; background-color: #fff; border: 0 solid transparent; border-radius: 0; /*border-top: 3px solid #4178BE; */ box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.05); padding: 1em; color: #586464;}
+  .ibm-panel-body {padding: 1em 1.5em 0; font-size: .9em;}
+
+/* Progress Bar */
+.ibm-progress {margin-bottom: 0; background-color: #ecf0f2; border-radius: 30em;}
+  .ibm-progress-bar {background-color: #4178BE;}
+
+/* Section */
+.ibm-models-selected {background-color: #fff; padding: 1em 1.5em; border: 1px solid #E0E0E0; clear: both;}
+
+/* Table */
+.ibm-accordion-group th {width: 3em;}
+.ibm-tr-collapse td {border: 0;}
+.ibm-th-model {text-indent: 3.2em;}
+  .ibm-td-checkbox .ibm-checkbox {margin-top: 8px;}
+  .ibm-model {margin-top: 8px; font-size: 1.2em;}
+  .ibm-modelname {margin: 0 0 2em; font-family: "HelvNeueBoldforIBM";}
+  .ibm-bitly {display: inline-block; margin-top: .6em;}
+  .ibm-badge {background-color: #C8D2D2; color: #333; border-radius: 30em; padding: .5em 1em .4em; vertical-align: middle; font-size: .6em; font-family: "HelvNeueLightforIBM"; font-weight: normal;}
+  .ibm-model-languagepair {margin: 0 0 1.5em; font-size: .8em; color: #bac4c6;}
+  .ibm-training {margin-top: .7em; font-family: "HelvNeueBoldforIBM";}
+    .ibm-trained {color: #bac4c6;}
+    .ibm-not-trained {font-family: "HelvNeueLightItalicforIBMRegular";}
+    .ibm-training .ibm-date {font-family: "HelvNeueLightforIBM";}
+.ibm-td-sid {width: 30%;}
+
+.ibm-languagePair {display: inline-block; font-family: "HelvNeueLightforIBM"; font-size: 1em;}
+  .ibm-languagePair strong {font-family: "HelvNeueMediumforIBM";}
+.ibm-tr-files-unlearned {background-color: rgba(224, 224, 224, .1);}
+.ibm-tr-files-unlearned:hover {background-color: rgba(224, 224, 224, .6);}
+.ibm-tr-files-learned {background-color: rgba(200, 240, 143, .5); font-family: "HelvNeueMediumforIBM";}
+.ibm-tr-files-learned:hover {background-color: rgba(200, 240, 143, 1);}
+table tbody tr td.ibm-td-file {padding-left: 2em;}
+table tbody tr td.ibm-td-size {color: #6D7777; font-size: .8em;}
+table tbody tr td.ibm-td-added {}
+table tbody tr td.ibm-td-trained {}
+
+  /* My Models Table */
+  .ibm-table-models {}
+    table.ibm-table-models thead tr th, table tbody .ibm-tr-collapse td {border: 0;}
+    .ibm-table-models tr:hover {cursor: pointer;}
+    .ibm-table-models tr:hover .ibm-glyphicon-trash {display: block;}
+    .ibm-td-checkbox {width: 2em;}
+  .ibm-table > tbody > tr > td {vertical-align: middle;}
+
+
+/* Well */
+.ibm-well {border-radius: 0; margin-bottom: 0; background: none; border-width: 0; padding: 0; box-shadow: none;}
+.ibm-well-sm {margin-top: .25em; margin-bottom: 0; background-color: #fff; line-height: 1;}
+
+
+
+/* ======================================= */
+/* ============ Custom Styles ============ */
+/* ======================================= */
+
+/* Dashboard Images */
+.ibm-bluemixDashboard {display: block; height: 100%; width: 100%;}
+  .ibm-bluemixDashboard img {display: block; height: 100%; width: 100%;}
+
+/* Domain cost */
+.ibm-cost {float: right; font-weight: normal; font-family: "HelvNeueLightforIBM"; font-size: .5em; color: #94a3ab;}
+
+/* Invisible Link to transition to next page */
+.ibm-link-invisible {display: block; width: 100%; height: 7em; text-indent: -999em;}
+.ibm-link-invisible:hover {cursor: default;}
+.ibm-hidden-nav {visibility: hidden;}
+
+/* Highlight link */
+.ibm-link-highlight {border-bottom: 1px dotted #337ab7;}
+.ibm-link-highlight:hover {border-color: #8CC63F; color: #8CC63F; text-decoration: none;}
+
+/* Info tooltips */
+.ibm-th-sid .ibm-btn-info, .ibm-th-share .ibm-btn-info {padding: 0; margin-left: .5em; color: #777;}
+.ibm-td-train .ibm-glyphicon-new-window {margin-left: .5em;}
+
+/* Or */
+.ibm-or {border: 1px solid red;}
+
+.ibm-descriptions {}
+  .ibm-descriptions h4 {font-family: "HelvNeueLightforIBM";}
+  .ibm-descriptions p {font-size: .9em;}
+  .ibm-descriptions a, .ibm-descriptions a:hover {font-family: "HelvNeueLightforIBM";}
+
+/* ================================================ */
+/* ============ Morphing Button Styles ============ */
+/* ================================================ */
+.ibm-morph-button.ibm-morph-button-overlay {width: auto; height: auto; display: inline-block; margin: 0 0 0 1.5em;}
+.ibm-morph-button .ibm-morph-content {height: 1px; width: 1px; background-color: rgba(14, 118, 50, .9); color: #C7C7C7;}
+  .ibm-morph-button .ibm-morph-content h1 {text-align: center;}
+    .ibm-morph-button .ibm-morph-content h1 span {display: inline-block; padding-left: 2.5em; background: url(../images/icon-mt.png) no-repeat 0 0 / 1.5em 1.5em; color: #fff; line-height: 2; font-family: "HelvNeueLightforIBM";}
+  .ibm-morph-button .ibm-morph-content > div {padding: 2em 5%;}
+  .ibm-morph-button .ibm-morph-content .ibm-row {margin-bottom: 1em;}
+  .ibm-test-notification {margin-bottom: 2em;}
+    .ibm-test-notification small {color: #6EEDD8;}
+  .ibm-content-style-overlay .glyphicon-remove-circle {position: absolute; top: .5em; right: .5em; margin-right: 0; background-image: url(../images/close-cancel-error_32.svg); opacity: .5;}
+  .ibm-content-style-overlay textarea {height: 200px; border-width: 0; padding: 1.5em; color: #fff;}
+    .ibm-textarea {height: 100%; background-color: rgba(0, 0, 0, .3); border-width: 0; padding: 1.5em; color: #fff;}
+      .ibm-row .col-sm-6:nth-child(2) .ibm-textarea {background-color: rgba(0, 0, 0, .5)}
+      .ibm-textarea em {background-color: #FDD600; padding: .3em .3em 0; color: #333; font-family: "HelvNeueMediumforIBM"; font-style: normal;}
+  button.ibm-btn-morph {height: auto; width: auto;}
+
+  .ibm-page-test_base .ibm-morph-content {background: #464646;}
+
+/* ============================================== */
+/* ============ Page Specific Styles ============ */
+/* ============================================== */
+
+/* Page - Glossary */
+.ibm-page-glossary {}
+  .ibm-page-glossary .ibm-term h3 {font-size: 1em; font-family: "HelvNeueBoldforIBM";}
+  .ibm-page-glossary .ibm-term p {padding-left: 2em;}
+  .ibm-term {margin-bottom: 1em;}
+
+/* Bootstrap 3 responsive columns of same height */
+/* http://www.minimit.com/demos/bootstrap-3-responsive-columns-of-same-height */
+.row-full-height {height: 100%;}
+.col-full-height {height: 100%; vertical-align: top;}
+.row-same-height {display: table; width: 100%; /* fix overflow */ table-layout: fixed;}
+.col-xs-height {display: table-cell; float: none !important;}
+.col-full-height:before {content:"";}
+
+.model-buttons {float: right;}

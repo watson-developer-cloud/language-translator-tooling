@@ -1,0 +1,14 @@
+<div>
+    <header>
+        <a href="#" ng-click="showAnswer = !showAnswer">
+            <h4>{{question}}</h4>
+            <span aria-hidden="true" class="ibm" ng-class="{'ibm-glyph--down': !showAnswer, 'ibm-glyph--up': showAnswer}"></span>
+        </a>
+    </header>
+    <section ng-show="showAnswer">
+        <p>
+            <span>{{answer}}</span>
+            <a ng-show="helpLink && helpLabel" href="{{helpLink}}" target="_blank">{{helpLabel}}</a>
+        </p>
+    </section>
+</div>

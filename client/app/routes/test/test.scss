@@ -1,0 +1,264 @@
+/**
+ * Copyright 2015 IBM Corp.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ **/
+
+/* Sidebar */
+/*::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width: 7px;
+    background: transparent;
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+    background-color: rgba(0,0,0,.5);
+    -webkit-box-shadow: 0 0 1px rgba(255,255,255,.5);
+}*/
+.scroll-box {
+  overflow-y: auto;
+  height: calc(100vh - 191px);
+}
+
+@media (max-width: 550px) {
+    .scroll-box {
+        height: auto;
+    }
+}
+
+.test-left-panel .scroll-box {
+    height: calc(100vh - 160px);
+}
+
+.test-sidebar, .test-sidebar .nav, .test-sidebar .nav li {
+  width: 100%;
+}
+
+.test-sidebar {
+    height: calc(100vh - 100px);
+}
+
+@media (max-width: 550px) {
+    .test-sidebar {
+        height: auto;
+    }
+}
+
+.test-sidebar h5 {
+  margin: 0;
+  padding: 0.86em 1.2em;
+  color: #fff;
+}
+
+.sidebar-filters {
+  border-bottom: 1px solid #121212;
+  padding: 1em 0;
+}
+
+.sidebar-filters .ibm-dropdown__full-width, .sidebar .ibm-form__search {
+  margin: 0 1em;
+  width: calc(100% - 2em);
+  background: none;
+}
+
+.sidebar-filters .ibm-dropdown__full-width {
+  margin-top: 1em;
+  border: 1px solid #C7C7C7;
+}
+
+.sidebar-filters .ibm-dropdown__full-width .ibm-dropdown__button {
+  width: 100%;
+  border: none;
+  background: none;
+  color: #C7C7C7;
+}
+
+.sidebar-filters .ibm-dropdown__full-width .ibm-dropdown__button:hover, .sidebar-filters .ibm-dropdown__full-width .ibm-dropdown__button:focus, .sidebar-filters .ibm-dropdown__full-width .ibm-dropdown__button:active {
+  background: none;
+  color: #C7C7C7;
+}
+
+.sidebar-filters .ibm-dropdown__menu {
+  background: #152935;
+  color: #AEB8B8;
+  border: 1px solid #AEB8B8;
+  padding: 0;
+  box-shadow: none;
+  max-height: calc(100vh - 190px);
+}
+
+.test-sidebar li a.test-model {
+  padding-left: 1.2em;
+  display: flex;
+}
+
+.test-sidebar .form-control::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+  color: #C7C7C7;
+}
+.test-sidebar .form-control:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+  color: #C7C7C7;
+  opacity: 1;
+}
+.test-sidebar .form-control::-moz-placeholder { /* Mozilla Firefox 19+ */
+  color: #C7C7C7;
+  opacity: 1;
+}
+.test-sidebar .form-control:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #C7C7C7;
+}
+
+.test-sidebar .ibm-form__search {
+  border: 1px solid #C7C7C7;
+  background: no-repeat url("../assets/images/filter-grey.svg");
+  background-size: 1.3em;
+  background-position: .8em .4em;
+  padding: .4em 1em .2em 2.6em;
+  margin-right: 1em;
+  color: #C7C7C7;
+}
+
+/* Main content */
+.translate-top-content {
+  background: #ECF0F2;
+  padding: 1em 1em 0 1em;
+}
+
+.model-test-fullpage {
+  min-height: calc(100vh - 310px);
+  margin: 2em;
+}
+
+.model-test-fullpage .loading {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.translate-breadcrumb {
+  margin: 1em 0 0 1em;
+  color: #C7C7C7;
+}
+
+.translate-breadcrumb .blue {
+  color: #325C80;
+}
+
+.translate-breadcrumb a:hover {
+  text-decoration: none;
+}
+
+.translate-breadcrumb a .blue {
+  font-family: "HelvNeueBoldforIBM";
+  color: #325C80;
+}
+
+.translate-breadcrumb a:hover .blue {
+  border-bottom: 1px solid #264A60;
+  color: #264A60;
+  text-decoration: none;
+}
+
+.translate-breadcrumb .black {
+  color: #333;
+}
+
+.translate-breadcrumb .bold {
+  font-family: "HelvNeueBoldforIBM";
+  margin-right: 0.5em;
+}
+
+.translate-header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.translate-header h1 {
+  margin: .5em 0 .5em .5em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex: 1;
+  min-width: 200px;
+}
+
+.translate-header h2 {
+  margin: 1.8em 1em 1.2em 1em;
+  font-size: 1em;
+  color: #5A6464;
+  flex: 1;
+  min-width: 200px;
+  text-align: right;
+}
+
+.translate-last-modified {
+  clear: both;
+  margin: 1em 1em 1.5em 1em;
+}
+
+.translate-last-modified h5 {
+  display: inline-block;
+  margin-right: 1em;
+}
+
+.translate-last-modified span {
+  margin-top: -.2em;
+}
+
+.reset-btn {
+  margin-right: 1em;
+}
+
+.form-control[readonly] {
+  background: white;
+}
+
+.translation-text-area {
+    border: 2px solid #E0E0E0;
+}
+
+.translation-text-area pre {
+    min-height: 250px;
+    max-height: 500px;
+    overflow-y: auto;
+    margin-bottom: 25px;
+}
+
+.target .translation-text-area {
+    background-color: #ECF0F2;
+    border: 1px solid #AEB8B8;
+}
+
+.dropdown-menu {
+  overflow: auto;
+}
+
+.view-model-link {
+    width: calc(100% - 40px);
+    padding: 1em;
+    margin: 0 20px;
+    border-top: 1px solid #DFE9E9;
+    color: #325C80;
+}
+
+.view-model-link .ibm {
+    font-size: 1.2em;
+    padding-right: .5em;
+    vertical-align: sub;
+}
+
+.message-box {
+    color: #323C3C;
+    background-color: #C8D2D2;
+    text-align: center;
+    padding: 2em;
+    cursor: not-allowed;
+}

@@ -1,0 +1,63 @@
+<div class="modal-header">
+  <h3 id="modal-title" class="modal-title">
+    {{'model-document-upload-select-type' | translate}}
+  </h3>
+  <!-- <button type="button" role="button" class="icon" title="{{'cancel' | translate}}" aria-label="{{'cancel' | translate}}" ng-click="cancel()"><span class="ibm ibm-icon--close float-right"></span></a> -->
+</div>
+
+<div class="modal-body upload-body">
+  <div class="row ibm-row">
+    <div>
+      <div class="model-info-body">
+        <table class="table ibm-table read-only">
+          <thead>
+            <tr>
+              <th class="model-info-header"><h5>{{'model-document-name' | translate}}</h5></th>
+              <th class="model-info-header"><h5>{{'model-document-type' | translate}}</h5></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="model-file-row" ng-repeat="file in model.newFiles">
+              <td class="half-width">
+                <div class="inline-label">{{'model-document-name' | translate}}</div>
+                <div class="display-inline">{{file.name}}</div>
+              </td>
+              <td>
+                <div class="inline-label">{{'model-document-type' | translate}}</div>
+                <div class="display-inline" ng-show="file.option == fileTypes.monolingualCorpus">{{getFileOption(file.option)}}</div>
+                <div class="display-inline btn-group ibm-dropdown" dropdown ng-show="file.option != fileTypes.monolingualCorpus">
+                  <button type="button" id="sort-button" role="button" class="btn btn-default ibm-dropdown__button" dropdown-toggle>
+                    <span class="float-left">{{getFileOption(file.option)}}</span>
+                    <span class="float-right ibm ibm-glyph--down"></span>
+                  </button>
+                  <ul class="dropdown-menu ibm-dropdown__menu" role="menu" aria-labelledby="sort-button">
+                    <li ng-repeat="option in fileOptions" ng-show="isApplicableType(file, option)">
+                      <a href="#" role="menuitem" ng-click="selectFileOption(file, option)">{{getFileOption(option)}}</a>
+                    </li>
+                  </ul>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div>
+    <faq faq-question="{{'model-document-faq-document-type-question' | translate}}"
+         faq-answer="{{'model-document-faq-document-type-answer' | translate}}"
+         faq-help-label="{{'model-document-learn-more' | translate}}"
+         faq-help-link="https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/language-translator/customizing.shtml#structure">
+     </faq>
+</div>
+
+<div class="modal-footer">
+  <button type="button" class="btn ibm-btn ibm-btn--link" ng-click="cancel()">
+    <span>{{'cancel' | translate}}</span>
+  </button>
+  <button type="button" class="btn btn-primary ibm-btn ibm-btn-primary" ng-class="{disabled: !fileTypesConfirmed()}" ng-disabled="!fileTypesConfirmed()" ng-click="upload()">
+    <span>{{'model-document-upload' | translate}}</span>
+  </button>
+</div>

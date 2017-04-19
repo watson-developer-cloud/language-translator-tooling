@@ -1,0 +1,158 @@
+<div class="loading" ng-show="loading"></div>
+
+<div class="ibm-wrapper ibm-wrapper--white" ng-show="!loading">
+  <div class="ibm-wrapper-home">
+
+    <!-- Heading -->
+    <div class="row">
+      <div class="home-title-container">
+        <div class="projects-heading">
+          <h1>{{'projects' | translate}}</h1>
+        </div>
+
+        <div class="home-filter">
+          <div class="sort-label">{{'projects-sort-by' | translate}}</div>
+          <div class="btn-group ibm-dropdown" dropdown>
+            <button type="button" role="button" class="btn btn-default ibm-dropdown__button" dropdown-toggle>
+              <span class="float-left">{{sortOption.name}}</span>
+              <span class="float-right ibm ibm-glyph--down"></span>
+            </button>
+            <ul class="dropdown-menu ibm-dropdown__menu" role="menu" aria-label="{{'projects-sort-by' | translate}}">
+              <li ng-repeat="opt in sortOpts">
+                <a role="menuitem" href="#" ng-click="sortBy(opt)">{{opt.name}}</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="home-filter">
+          <input type="text" ng-model="search.name" class="form-control ibm-form__search" placeholder="{{'filter' | translate}}" aria-label="{{'projects-filter' | translate}}">
+        </div>
+
+      </div><!-- END title container -->
+    </div><!-- END row -->
+
+  </div><!-- center wrapper -->
+</div>
+
+<div class="ibm-wrapper ibm-wrapper--neutral3 project-list" style="border-top: 1px solid #DFE9E9;" ng-show="!loading">
+  <div class="ibm-wrapper-home">
+
+    <div class="row projects-container">
+      <div class="prj--item prj--item--add" ng-show="addProjectCollapsed" ng-click="toggleAddProjectPanel()">
+        <div class="panel panel-default ibm-panel ibm-panel--add-project">
+          <button type="button" role="button" class="icon add-project-btn">
+            <span class="ibm ibm-icon--add_large" aria-hidden="true"></span>
+            <span class="add-project-label">{{'projects-add' | translate}}</span>
+          </button>
+          <p>{{'projects-create-multiple' | translate}} <a class="ibm-link" href="https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/language-translator/tooling.shtml#projects" target="_blank" stop-event="click">{{'projects-learn-more' | translate}}</a></p>
+        </div>
+      </div>
+
+      <div class="prj--item" ng-show="!addProjectCollapsed">
+          <div class="panel panel-default ibm-panel">
+            <div class="panel-heading add-project-heading">
+              <input class="project-edit-heading form-control ibm-form__input" ng-model="newProject.name" focus-me="!addProjectCollapsed" placeholder="{{'projects-enter-name' | translate}}" aria-label="{{'project-new-name' | translate}}">
+            </div>
+
+            <div class="panel-body ibm-panel__body project-body">
+              <div class="base-model-label">{{'project-base-model' | translate}}</div>
+
+              <div class="btn-group ibm-dropdown__full-width" dropdown>
+                <button type="button" id="base-model-option-domain" role="button" class="btn btn-default ibm-dropdown__button ibm-dropdown__full-width" dropdown-toggle aria-label="{{'projects-select-domain' | translate}}">
+                  <span class="float-left">{{newProjectPanel.domain | toDomain}}</span>
+                  <span class="float-right ibm ibm-glyph--down"></span>
+                </button>
+                <ul class="dropdown-menu ibm-dropdown__menu" role="menu" aria-labelledby="base-model-option-domain">
+                  <li ng-repeat="base in baseModels">
+                    <a href="#" role="menuitem" ng-click="setUpNewProject('domain', base.domain)">{{base.domain | toDomain}}</a>
+                  </li>
+                </ul>
+              </div>
+
+              <div class="btn-group ibm-dropdown__full-width" dropdown>
+                <button type="button" id="base-model-option-source" role="button" class="btn btn-default ibm-dropdown__button ibm-dropdown__full-width" ng-class="{disabled:newProjectPanel.domain === initialProjectVals.domain}" dropdown-toggle aria-label="{{'projects-select-source-language' | translate}}">
+                  <span class="float-left">{{newProjectPanel.source | toCountry}}</span>
+                  <span class="float-right ibm ibm-glyph--down"></span>
+                </button>
+                <ul class="dropdown-menu ibm-dropdown__menu" role="menu" aria-labelledby="base-model-option-source">
+                  <li ng-repeat="domain in baseModels[newProject.domain].sources">
+                    <a href="#" role="menuitem" ng-click="setUpNewProject('source', domain.source)">{{domain.source | toCountry}}</a>
+                  </li>
+                </ul>
+              </div>
+
+              <div class="btn-group ibm-dropdown__full-width" dropdown>
+                <button type="button" id="base-model-option-target" role="button" class="btn btn-default ibm-dropdown__button ibm-dropdown__full-width" ng-class="{disabled:newProjectPanel.source === initialProjectVals.source}" dropdown-toggle  aria-label="{{'projects-select-source-language' | translate}}">
+                  <span class="float-left">{{newProjectPanel.target | toCountry}}</span>
+                  <span class="float-right ibm ibm-glyph--down"></span>
+                </button>
+                <ul class="dropdown-menu ibm-dropdown__menu" role="menu" aria-labelledby="base-model-option-target">
+                  <li ng-repeat="target in baseModels[newProject.domain].sources[newProject.source].targets">
+                    <a href="#" role="menuitem" ng-click="setUpNewProject('target', target.target)" id="new_project_target">{{target.target | toCountry}}</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="project-button">
+              <button type="button" role="button" class="btn ibm-btn--link cancel-btn" ng-click="toggleAddProjectPanel()">
+                <span>{{'cancel' | translate}}</span>
+              </button>
+              <button type="button" role="button" ng-class="[{'ibm-btn--disabled': !isNewProjectDefined()}]" ng-disabled="!isNewProjectDefined()" class="btn btn-primary ibm-btn ibm-btn--primary add-project-panel-btn" ng-click="addProject()">
+                {{'projects-create' | translate}}
+              </button>
+            </div>
+            <div style="clear:both;"></div>
+
+          </div>
+      </div><!-- prj item -->
+
+      <!-- Project -->
+      <div class="prj--item" ng-controller="ProjectCtrl" ng-repeat="project in projects | orderObjectBy:sortOption.field:sortOption.child:sortOption.reverse | filter:search:strict" ng-show="!project.deleting">
+          <div class="panel panel-default ibm-panel">
+            <div class="panel-heading ibm-panel__heading" ng-show="project.editing">
+              <form ng-submit="applyChanges(project)" stop-event="click">
+                <input id="project-name-input-{{$index}}" type="text" aria-label="{{'projects-enter-name' | translate}}" class="project-edit-heading" ng-model="project.newName" focus-me="project.editing" ng-blur="applyChanges(project)" stop-event="click">
+                <input type="submit" class="hidden"/>
+              </form>
+            </div>
+
+            <div class="panel-heading ibm-panel__heading layout" ng-show="!project.editing">
+              <h3 class="project-name flex"><span class="screen-reader-only">{{'project' | translate}}</span><span>{{project.name}}</span></h3>
+              <button type="button" role="button" class="icon" ng-click="deleteProject(project)" stop-event="click" title="{{'project-delete' | translate}}" aria-label="{{'project-delete' | translate}}">
+                <span class="ibm ibm-icon--delete" aria-hidden="true"></span>
+              </button>
+              <button type="button" role="button" class="icon" ng-click="startEdit(project)" stop-event="click" title="{{'project-edit-name' | translate}}" aria-label="{{'project-edit-name' | translate}}">
+                <span class="ibm ibm-glyph--edit" aria-hidden="true"></span>
+              </button>
+            </div>
+
+            <div class="table project-table">
+              <div class="layout">
+                <div class="project-table-key">{{'project-base-model' | translate}}</div>
+                <div class="project-table-value flex">{{'project-translate-domain-from-to' | translate:modelDetails}}</div>
+              </div>
+              <div class="layout">
+                <div class="project-table-key">{{'project-number-of-models' | translate}}</div>
+                <div class="project-table-value flex">{{project.models.length}}</div>
+              </div>
+              <div class="layout">
+                <div class="project-table-key">{{'project-last-modified' | translate}}</div>
+                <div class="project-table-value flex">{{project.models | lastUpdated}}</div>
+              </div>
+          </div>
+
+            <div class="project-button">
+              <button type="button" role="button" ng-show="!project.editing" class="btn btn-primary ibm-btn ibm-btn--primary enter-project-button" ng-click="selectProject(project)" title="{{'projects-view' | translate}}" aria-label="{{'projects-view' | translate}}">
+                <span class="ibm ibm-glyph--forward" aria-hidden="true"></span>
+              </button>
+            </div>
+          </div>
+      </div><!-- prj item -->
+
+    </div><!-- row -->
+
+  </div><!-- max-wdith wrapper -->
+
+</div>

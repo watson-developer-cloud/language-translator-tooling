@@ -1,0 +1,241 @@
+/**
+ * Copyright 2015 IBM Corp.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ **/
+
+$icon-font-path: "/bower_components/bootstrap-sass-official/assets/fonts/bootstrap/";
+$fa-font-path: "/bower_components/font-awesome/fonts";
+
+@import 'bootstrap-sass-official/assets/stylesheets/bootstrap';
+@import 'font-awesome/scss/font-awesome';
+
+
+.navbar-header,
+.navbar-nav,
+.navbar-right {
+    float: none;
+}
+
+a {
+    font-weight: bold;
+}
+
+.watson.lt section {
+    margin: 0;
+}
+
+.watson .dropdown-toggle:focus {
+    outline: rgb(94, 158, 215) auto 5px;
+}
+
+.watson .form-control:focus {
+    outline: rgb(94, 158, 215) auto 5px;
+}
+
+.btn-group .btn.dropdown-toggle .ibm.ibm-glyph--down {
+    margin-left: 10px;
+}
+
+.loading {
+    background-image: url(../assets/images/loading-indicator.svg);
+    background-repeat: no-repeat;
+    width: 150px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.wrapper {
+  min-height: 100%;
+  position: relative;
+}
+
+.mt-body {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  min-height: calc(100vh - 100px);
+}
+
+.upppercase {
+    text-transform: uppercase;
+}
+
+.centered {
+    text-align: center;
+}
+
+.layout {
+    display: flex;
+}
+
+.layout.wrap {
+    flex-wrap: wrap;
+}
+
+.layout-vertical {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+
+.flex {
+    flex: 1;
+}
+
+.half-column {
+    width: 49%;
+    margin-right: 1%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.half-width {
+    width: 50%;
+}
+
+textarea {
+    resize: none;
+}
+
+.screen-reader-only {
+  position: absolute;
+  clip: rect(0px 0px 0px 0px);
+  width: 0;
+}
+
+.display-inline {
+    display: inline-block;
+    vertical-align: top;
+}
+
+pre {
+    font-family: "HelvNeueforIBM";
+    background-color: transparent;
+    border: 0;
+    word-break: normal;
+    word-wrap: normal;
+    white-space: pre-wrap;
+}
+
+.display-inline {
+    display: inline-block;;
+    vertical-align: top;
+}
+
+/* Centering of modals */
+.modal {
+  text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+  .modal:before {
+    display: inline-block;
+    vertical-align: middle;
+    content: " ";
+    height: 100%;
+  }
+
+  .modal-body {
+      max-height: 500px;
+      overflow-y: auto;
+  }
+}
+
+.modal-dialog {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.sticky-note {
+    background-color: #ECF0F2;
+    border-left: 8px solid #325C80;
+    padding: 10px;
+    display: flex;
+}
+
+.sticky-note.warning {
+    border-color: #eec02b;
+}
+
+.sticky-note.error {
+    border-color: #E71D32;
+}
+
+.sticky-note .fa {
+    font-size: 32px;
+    color: #323C3C;
+}
+
+.sticky-note > * {
+    padding: 10px;
+}
+
+.sticky-note h3 {
+    margin: 0px;
+}
+
+.padding-small {
+    padding: 0.5em;
+}
+
+
+h1 + button {
+    margin-left: 0.5em;
+}
+
+button.icon {
+    border: 0;
+    background-color: transparent;
+    padding: 0.5em;
+}
+
+.message-box {
+    color: #323C3C;
+    background-color: #C8D2D2;
+    text-align: center;
+    padding: 2em;
+    cursor: not-allowed;
+}
+
+
+/**
+ * App-wide Styles
+ */
+
+// Component styles are injected through grunt
+// injector
+@import 'directives/copyToClipboard/copyToClipboard.scss';
+@import 'directives/faq/faq.scss';
+@import 'directives/mtAlert/mtAlert.scss';
+@import 'directives/mtDropbox/mtDropbox.scss';
+@import 'directives/mtFooter/mtFooter.scss';
+@import 'directives/mtHeader/mtHeader.scss';
+@import 'directives/mtSideNav/mtSideNav.scss';
+@import 'directives/scrollToTop/scrollToTop.scss';
+@import 'modals/cancelTraining/cancelTraining.scss';
+@import 'modals/delete/delete.scss';
+@import 'modals/nextSteps/nextSteps.scss';
+@import 'modals/train/train.scss';
+@import 'modals/upload/upload.scss';
+@import 'routes/login/login.scss';
+@import 'routes/models/models.scss';
+@import 'routes/projects/projects.scss';
+@import 'routes/test/test.scss';
+// endinjector

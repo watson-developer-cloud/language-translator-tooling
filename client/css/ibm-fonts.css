@@ -1,0 +1,186 @@
+/**
+ * Copyright 2015 IBM Corp.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ **/
+
+/* @font-face ============== */
+
+@font-face {
+    font-family: 'HelvNeueBoldforIBM';
+    src: url(../assets/fonts/HelvNeueBoldforIBM.otf) format("opentype");
+    font-weight: bold;
+    font-style: normal;
+}
+ @font-face {
+    font-family: 'HelvNeueBoldItalicforIBMRegular';
+    src: url('../assets/fonts/helvneuebolditalicforibm.eot');
+    src: url('../assets/fonts/helvneuebolditalicforibm.eot') format('embedded-opentype'),
+         url('../assets/fonts/helvneuebolditalicforibm.woff2') format('woff2'),
+         url('../assets/fonts/helvneuebolditalicforibm.woff') format('woff'),
+         url('../assets/fonts/helvneuebolditalicforibm.ttf') format('truetype'),
+         url('../assets/fonts/helvneuebolditalicforibm.svg#HelvNeueBoldItalicforIBMRegular') format('svg');
+}
+@font-face {
+    font-family: 'HelvNeueCondforIBM';
+    src: url(../assets/fonts/HelvNeueCondforIBM.otf) format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'HelvNeueLightCondforIBM';
+    src: url(../assets/fonts/HelvNeueLightCondforIBM.otf) format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'HelvNeueLightforIBM';
+    src: url(../assets/fonts/HelvNeueLightforIBM.otf) format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'HelvNeueLightItalicforIBMRegular';
+    src: url('../assets/fonts/helvneuelightitalicforibm.eot');
+    src: url('../assets/fonts/helvneuelightitalicforibm.eot') format('embedded-opentype'),
+         url('../assets/fonts/helvneuelightitalicforibm.woff2') format('woff2'),
+         url('../assets/fonts/helvneuelightitalicforibm.woff') format('woff'),
+         url('../assets/fonts/helvneuelightitalicforibm.ttf') format('truetype'),
+         url('../assets/fonts/helvneuelightitalicforibm.svg#HelvNeueLightItalicforIBMRegular') format('svg');
+}
+@font-face {
+    font-family: 'HelvNeueMediumforIBM';
+    src: url(../assets/fonts/HelvNeueMediumforIBM.otf) format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'HelvNeueMediumItalicforIBMRegular';
+    src: url('../assets/fonts/helvneuemediumitalicforibm.eot');
+    src: url('../assets/fonts/helvneuemediumitalicforibm.eot') format('embedded-opentype'),
+         url('../assets/fonts/helvneuemediumitalicforibm.woff2') format('woff2'),
+         url('../assets/fonts/helvneuemediumitalicforibm.woff') format('woff'),
+         url('../assets/fonts/helvneuemediumitalicforibm.ttf') format('truetype'),
+         url('../assets/fonts/helvneuemediumitalicforibm.svg#HelvNeueMediumItalicforIBMRegular') format('svg');
+}
+@font-face {
+    font-family: 'HelvNeueRomanforIBM';
+    src: url(../assets/fonts/HelvNeueRomanforIBM.otf) format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'HelvNeueRomanItalicforIBMRegular';
+    src: url('../assets/fonts/helvneueromanitalicforibm.eot');
+    src: url('../assets/fonts/helvneueromanitalicforibm.eot') format('embedded-opentype'),
+         url('../assets/fonts/helvneueromanitalicforibm.woff2') format('woff2'),
+         url('../assets/fonts/helvneueromanitalicforibm.woff') format('woff'),
+         url('../assets/fonts/helvneueromanitalicforibm.ttf') format('truetype'),
+         url('../assets/fonts/helvneueromanitalicforibm.svg#HelvNeueRomanItalicforIBMRegular') format('svg');
+}
+
+@font-face {
+    font-family: 'ibm-icons';
+    src:url('../assets/fonts/ibm-icons.eot?-1jn630');
+    src:url('../assets/fonts/ibm-icons.eot?#iefix-1jn630') format('embedded-opentype'),
+        url('../assets/fonts/ibm-icons.ttf?-1jn630') format('truetype'),
+        url('../assets/fonts/ibm-icons.woff?-1jn630') format('woff'),
+        url('../assets/fonts/ibm-icons.svg?-1jn630#ibm-icons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.ibm {
+    font-family: 'ibm-icons';
+    font-size: 1.5em;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.ibm-icon--add_large:before {
+    content: "\e616";
+}
+.ibm-icon--filter:before {
+    content: "\e600";
+}
+.ibm-icon--add:before {
+    content: "\e601";
+}
+.ibm-icon--close:before {
+    content: "\e602";
+}
+.ibm-icon--copy:before {
+    content: "\e603";
+}
+.ibm-icon--delete:before {
+    content: "\e604";
+}
+.ibm-icon--information:before {
+    content: "\e605";
+}
+.ibm-icon--train:before {
+    content: "\e606";
+}
+.ibm-icon--upload:before {
+    content: "\e607";
+}
+.ibm-glyph--clear:before {
+    content: "\e608";
+}
+.ibm-glyph--add:before {
+    content: "\e609";
+}
+.ibm-glyph--back:before {
+    content: "\e60a";
+}
+.ibm-glyph--down:before {
+    content: "\e60b";
+}
+.ibm-glyph--edit:before {
+    content: "\e60c";
+}
+.ibm-glyph--forward:before {
+    content: "\e60d";
+}
+.ibm-glyph--help:before {
+    content: "\e60e";
+}
+.ibm-glyph--left:before {
+    content: "\e60f";
+}
+.ibm-glyph--profile:before {
+    content: "\e610";
+}
+.ibm-glyph--right:before {
+    content: "\e611";
+}
+.ibm-glyph--search:before {
+    content: "\e612";
+}
+.ibm-glyph--settings:before {
+    content: "\e613";
+}
+.ibm-glyph--tool-tip:before {
+    content: "\e614";
+}
+.ibm-glyph--up:before {
+    content: "\e615";
+}

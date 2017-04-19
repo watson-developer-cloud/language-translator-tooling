@@ -1,0 +1,81 @@
+/**
+ * Copyright 2015 IBM Corp.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ **/
+
+.mt-dropbox {
+  border: 2px dashed #C8D2D2;
+  padding: 1em;
+  margin-bottom: 1em;
+  text-align: center;
+  vertical-align: middle;
+  color: #5A6464;
+  font-family: "HelvNeueRomanforIBM";
+  font-size: .9em;
+  overflow: hidden;
+  transition: all .3s ease;
+}
+
+.mt-dropbox:hover {
+  background-color: #C8F08F;
+  border: 2px dashed #4B8400;
+  cursor: pointer;
+  color: #5A6464;
+}
+
+.mt-dropbox .ibm {
+  margin-right: 0.5em;
+  font-size: 1.8em;
+}
+
+.btn-file {
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+    background: none;
+    cursor: inherit;
+    display: block;
+}
+
+input[readonly] {
+  background-color: white !important;
+  cursor: text !important;
+}
+
+.import-box {
+  text-align: right;
+  border: 1px #ddd solid;
+  border-top: 0;
+  padding: 5px;
+}
+
+.disabled-dropbox {
+  color: #AEB8B8;
+}
+
+.disabled-dropbox:hover {
+  color: #AEB8B8;
+  border: 2px dashed #AEB8B8;
+  background: none;
+  cursor: default;
+}

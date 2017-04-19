@@ -1,0 +1,22 @@
+---
+applications:
+- name: @CF_APP_BASE_NAME@-@UCD_VERSION@
+  description: watson tooling language translator
+  command: NODE_ENV=production node server/start.js
+  memory: @CF_MEMORY@M
+  disk_quota: @CF_DISK_QUOTA@M
+  timeout: 180
+  instances: 1
+  host: @CF_APP_BASE_NAME@-@UCD_VERSION@
+  domain: @DOMAIN_STAGED@
+  services:
+  - @SERVICE_CLOUDANT@
+  - @SERVICE_OBJECTSTORAGE@
+  - @SERVICE_MONITORING@
+  - @SERVICE_REDIS@
+  env:
+    OBJECT_STORAGE_SERVICE_NAME: "@SERVICE_OBJECTSTORAGE@"
+    CLOUDANT_SERVICE_NAME: "@SERVICE_CLOUDANT@"
+    SESSION_SECRET: "@SESSION_SECRET@"
+    REDIS_SERVICE_NAME: "@SERVICE_REDIS@"
+    NEW_RELIC_LICENSE_KEY: "@NEW_RELIC_LICENSE_KEY@"

@@ -1,0 +1,17 @@
+<tmx version="1.4">
+  <header
+    creationtool="LT Tooling" creationtoolversion="20151021"
+    datatype="PlainText" segtype="sentence"
+    adminlang="en-us" srclang="en"
+    o-tmf="ABCTransMem"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hello world</seg>
+      </tuv>
+      <tuv xml:lang="ar">
+        <seg>Hello world</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

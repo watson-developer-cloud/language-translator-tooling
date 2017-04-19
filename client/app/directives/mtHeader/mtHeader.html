@@ -1,0 +1,73 @@
+<header role="banner" class="navbar ibm-navbar ibm-navbar--blue50" ng-if="loggedIn()" aria-label="{{'navigation-banner' | translate}}">
+  <div class="navbar-header ibm-navbar__header">
+    <a class="navbar-brand ibm-navbar__brand" href="projects">
+      IBM <strong>Watson Language Translator Tool Beta</strong>
+    </a>
+  </div>
+
+  <mt-side-nav></mt-side-nav>
+
+  <nav role="navigation" class="navbar-collapse collapse ibm-navbar__nav" aria-label="{{'navigation-banner' | translate}}">
+
+    <ul class="nav navbar-nav navbar-right ibm-navbar-list">
+      <!-- Projects -->
+      <li class="ibm-navbar-list__item" ng-class="[{'active-tab': location('projects')}]">
+        <a href="projects">
+          {{'header-projects' | translate}}
+        </a>
+      </li>
+      <!-- Translate -->
+      <li class="ibm-navbar-list__item" ng-class="[{'active-tab': location('test')}]">
+        <a href="test">
+          {{'header-translate' | translate}}
+        </a>
+      </li>
+      <!-- Alerts -->
+      <li class="ibm-navbar-list__item alerts-menu" dropdown ng-if="getAlertCount() > 0">
+        <button type="button" role="button" class="icon alerts-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" dropdown-toggle title="{{'alerts' | translate}}" aria-label="{{'alerts' | translate}}">
+            <span class="alerts-count">{{getAlertCount()}}</span>
+        </button>
+        <div class="dropdown-menu ibm-dropdown__menu ibm-dropdown__blue" role="menu" aria-label="{{'alerts' | translate}}">
+            <header class="layout" role="menuitem">
+                <h3 class="flex">{{'alerts' | translate}}</h3>
+                <a href="#" ng-click="clearAlerts()">{{'alerts-dismiss-all' | translate}}</a>
+            </header>
+            <div class="centered" ng-if="getAlertCount() == 0" role="menuitem">{{'alerts-none' | translate}}</div>
+            <ul ng-if="getAlertCount() > 0">
+              <li ng-repeat="alert in getAlerts()" role="menuitem">
+                  <mt-alert scope="header"></mt-alert>
+              </li>
+            </ul>
+        </div>
+      </li>
+      <!-- Help -->
+      <li class="ibm-navbar-list__item ibm-navbar-list__item--icon">
+        <a class="dropdown-menu__link" href="https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/language-translator/tooling.shtml" target="_blank" title="{{'header-help' | translate}}">
+          <span class="screen-reader-only">{{'header-help' | translate}}</span><span class="ibm ibm-glyph--help" aria-hidden="true"></span>
+        </a>
+      </li>
+      <!-- User menu -->
+      <li class="ibm-navbar-list__item ibm-navbar-list__item--icon" dropdown>
+        <button type="button" role="button" class="btn-transparent dropdown-menu__link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" dropdown-toggle title="{{'header-user-menu' | translate}}" aria-label="{{'header-user-menu' | translate}}">
+          <span class="screen-reader-only">{{'header-user-menu' | translate}}</span><span class="ibm ibm-glyph--profile" aria-hidden="true"></span>
+      </button>
+        <ul class="dropdown-menu ibm-dropdown__menu ibm-dropdown__blue" role="menu" aria-label="{{'header-user-menu' | translate}}">
+          <li class="header-nav__item" ng-click="logout()">
+            <a class="dropdown-menu_item" role="menuitem" href="#">{{'header-logout' | translate}}</a>
+          </li>
+          <li class="header-nav__item">
+            <a class="dropdown-menu_item" ng-href="{{forumURL}}" target="_blank">{{'header-help' | translate}}</a>
+          </li>
+          <li class="header-nav__item">
+            <button type="button" role="button" class="btn-transparent dropdown-menu_item" ng-click="showID(); $event.stopPropagation();"><span ng-show="!showTenancyID">{{'header-show-tenancy-id' | translate}}</span><span ng-show="showTenancyID">{{'header-hide-tenancy-id' | translate}}</span></button>
+            <div copy-to-clipboard="icon" class="tenancy-id" ng-show="showTenancyID">{{tenancyID}}</div>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div><!--/.nav-collapse -->
+</header>
+
+<div class="global-alerts">
+  <mt-alert scope="global" alert-object="alert" role="alert"></mt-alert>
+</div>

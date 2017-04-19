@@ -1,0 +1,140 @@
+/**
+ * Copyright 2015 IBM Corp.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ **/
+
+.navbar-nav > li > .dropdown-menu__link {
+  padding: .8em .8em .7em;
+  color: white;
+  line-height: 1;
+}
+
+.navbar-nav > li > .dropdown-menu__link:hover {
+  background: none;
+  box-shadow: 0 4px 0 0 #fff;
+}
+
+.navbar-nav > li > .dropdown-menu__link:active,
+.navbar-nav > li > .dropdown-menu__link:focus,
+.navbar-nav > li > .dropdown-menu__link:visited {
+  background: #325C80;
+}
+
+.navbar-nav > .active-tab {
+  background: #152935;
+  box-shadow: 0 3px 0 0 #152935;
+}
+
+.navbar-nav > .ibm-navbar-list__item > a {
+  font-family: "HelvNeueBoldforIBM";
+}
+
+.navbar-nav > .ibm-navbar-list__item > a:active,
+.navbar-nav > .ibm-navbar-list__item > a:focus,
+.navbar-nav > .ibm-navbar-list__item button:not(.icon):focus,
+.navbar-nav > .ibm-navbar-list__item.open button:not(.icon) {
+  background: #152935;
+  box-shadow: 0 3px 0 0 #152935;
+}
+
+
+.navbar-nav > li > .ibm-dropdown__blue {
+  font-family: "HelvNeueBoldforIBM";
+  background: #152935;
+  color: white;
+  padding-bottom: 1em;
+  margin-top: 2px;
+  border: 0;
+}
+
+.navbar-nav > li > .ibm-dropdown__blue li a,
+.navbar-nav > li > .ibm-dropdown__blue h3 {
+  color: white;
+}
+
+.nav .open > .dropdown-menu__link,
+.nav .open > .dropdown-menu__link:hover,
+.nav .open > .dropdown-menu__link:focus {
+  background: #152935;
+  box-shadow: 0 4px 0 0 #152935;
+}
+
+.header-nav__item {
+  margin: 0 1em;
+}
+
+.header-nav__item button {
+    color: #fff;
+}
+
+.tenancy-id {
+  background: #264A60;
+  color: white;
+  padding: .35em .5em .3em;
+}
+
+.tenancy-id pre {
+    white-space: nowrap;
+}
+
+.ibm-navbar--blue50 li.ibm-navbar-list__item .dropdown-menu_item {
+  display: inline-block;
+  padding: 0;
+  margin: 1em .4em;
+}
+
+.ibm-navbar-list__item .alerts-link:hover,
+.ibm-navbar-list__item .alerts-link:focus,
+.ibm-navbar--blue50 li.ibm-navbar-list__item .dropdown-menu_item:hover,
+.ibm-navbar--blue50 li.ibm-navbar-list__item .dropdown-menu_item:focus {
+  background: #152935;
+  box-shadow: 0 2px 0 0 #fff;
+}
+
+.global-alerts {
+    position: fixed;
+    top: 40px;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.ibm-navbar-list__item .alerts-link {
+    padding: 15px 10px 12px 10px;
+    color: white;
+}
+
+.navbar-nav > li.alerts-menu .dropdown-menu {
+    padding: 0;
+    min-width: 500px;
+    width: auto;
+}
+
+.alerts-menu header {
+    padding: 0 1em;
+}
+
+.alerts-menu header h3 {
+    margin-top: 10px;
+}
+
+.ibm-navbar--blue50 li.ibm-navbar-list__item.alerts-menu a:hover, .ibm-navbar--blue50 li.ibm-navbar-list__item.alerts-menu a:focus {
+    box-shadow: none;
+}
+
+.alerts-count {
+    border: 1px solid #fff;
+    border-radius: 35%;
+    padding: 0.4em 0.75em 0.3em 0.75em;
+}
