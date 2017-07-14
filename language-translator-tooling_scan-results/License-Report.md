@@ -1,0 +1,1 @@
+# Scan found no licenses that are not exempt from Pedigree Review

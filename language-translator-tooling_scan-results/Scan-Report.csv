@@ -1,0 +1,8 @@
+"Project","language-translator-tooling"
+"Directory Scanned","/Users/parthgaglani/Desktop/watson-tool-devcloud/language-translator-tooling"
+"Date","2017-07-14T13:27:41.791Z"
+"CLI Version","2.1.5"
+"WILD Version","1.0.1"
+""
+"Name","Version","Need Pedigree Review","Reason","License Types","Declared License","License Status","Path"
+"ibmwatson-lt-ui","0.0.5","true","New package and not exempt","Apache-2.0","Apache-2.0","Approved",""
