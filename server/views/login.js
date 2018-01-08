@@ -46,12 +46,13 @@ angular.module('mtTrainingApp')
 
       $scope.user = {
         name: '',
-        password: ''
+        password: '',
+        blueGUID: ''
       };
 
     $scope.credentialLogin = function() {
       Auth
-        .login($scope.user.name, $scope.user.password)
+        .login($scope.user.name, $scope.user.password, $scope.user.blueGUID)
         .then(function() {
           Alerts.clear();
           var path = '/projects';
@@ -98,6 +99,8 @@ angular.module('mtTrainingApp')
       '      <form novalidate class="login-box" ng-submit="credentialLogin()">\n' +
       '        <div class="form-group ibm-form__group log-in_form">\n' +
       '          <input type="text" class="form-control ibm-form__input" name="username" id="username" ng-model="user.name" aria-label="{{\'login-username\' | translate}}" placeholder="{{\'login-username\' | translate}}">\n' +
+      '          <br>\n' +
+      '          <input type="text" class="form-control ibm-form__input" name="blueGUID" id="blueGUID" ng-model="user.blueGUID" aria-label="{{\'login-blueGUID\' | translate}}" placeholder="{{\'login-blueGUID\' | translate}}">\n' +
       '          <br>\n' +
       '          <input type="password" class="form-control ibm-form__input" name="password" id="password" ng-model="user.password" aria-label="{{\'login-password\' | translate}}" placeholder="{{\'login-password\' | translate}}">\n' +
       '        </div>\n' +

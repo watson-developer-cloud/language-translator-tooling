@@ -111,7 +111,9 @@ exports.logout = function logout (req, res) {
 
 if (process.env.LT_AUTH_TYPE !== 'bluemix') {
   exports.credentialLogin = function credentialLogin (req, res, next) {
+    //console.log('4 - inside auth controller call for passport !!!! ');
     passport.authenticate('local', function verify (err, user) {
+      //console.log('1 - inside auth controller call for passport !!!! ' + user.serviceGUID);
       if (err) {
         return next(err);
       }

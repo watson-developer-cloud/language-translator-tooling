@@ -137,7 +137,10 @@ module.exports.getModels = function getModels (credentials, queryOptions) {
     generalUrl = url + '/models?' + queryString.stringify(queryOptions);
   }
   return request.getAsync(options).spread(function (response, body) {
-    if (response.statusCode === HTTPStatus.OK && response.headers['x-watson-user-customize-allowed']==='true') {
+    if (response.statusCode === HTTPStatus.OK
+      //&& response.headers['x-watson-user-customize-allowed']==='true'
+    ) 
+      {
       var bodyObject = parseBody(response, body, generalUrl, 'getModels');
       if (typeof bodyObject.models !== 'undefined') {
         return bodyObject.models;
