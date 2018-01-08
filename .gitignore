@@ -43,3 +43,4 @@ scripts/models.json
 uploads
 client/app/localization-inline.js
 test*.xml
+crashdumps
