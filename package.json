@@ -37,7 +37,7 @@
     "cookie-parser": "~1.0.1",
     "cors": "~2.6.0",
     "csurf": "~1.8.3",
-    "ejs": "~0.8.4",
+    "ejs": "~2.5.5",
     "errorhandler": "~1.0.0",
     "express": "~4.13.4",
     "express-session": "~1.13.0",
@@ -77,7 +77,7 @@
     "cookie-parser": "~1.0.1",
     "cors": "~2.6.0",
     "csurf": "~1.8.3",
-    "ejs": "~0.8.4",
+    "ejs": "~2.5.5",
     "errorhandler": "~1.0.0",
     "eslint": "^3.13.1",
     "eslint-config-google": "^0.7.1",
@@ -182,7 +182,7 @@
     "lint": "eslint ./client/app/.",
     "start-grunt": "grunt build --force",
     "run-server": "grunt serve --force",
-    
+
     "update-webdriver": "node node_modules/grunt-protractor-runner/node_modules/protractor/bin/webdriver-manager update"
   },
   "private": true
