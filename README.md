@@ -19,7 +19,8 @@ Run `yarn`
 and then
 Run `yarn run start-grunt` first for building, then `yarn run run-server` for preview on port 9000.
 
-Fetch the credentials from Watson Tranlator instance created on Bluemix to log into the tool. [Refer](http://www.ibm.com/watson/developercloud/doc/language-translator/tooling.shtml#credentials) this section.
+Fetch the credentials from Watson Tranlator instance created on IBM Cloud to log into the tool. [Refer](https://console.bluemix.net/docs/services/watson/getting-started-credentials.html#getting-credentials-manually) this section.
+Here `login-BlueGUID` refers to the ServiceGUID of your instance on IBM Cloud. This is found on url when you browse to your service instance https://console.bluemix.net/services/`{serviceGUID}`?ace_config=....
 
 ## Project Structure
 
