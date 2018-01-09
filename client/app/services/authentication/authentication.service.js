@@ -50,11 +50,13 @@ angular.module('mtTrainingApp')
           return !!session.username;
         }
 
-        function login (username, password) {
+        function login (username, password, blueGUID) {
+          //console.log('3 - inside auth service login !!! ' + blueGUID);
           return $http
             .post(endpoints.auth, {
               username: username,
-              password: password
+              password: password,
+              blueGUID:  blueGUID
             })
             .then(function handleLoginResponse (res) {
 

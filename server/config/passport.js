@@ -84,8 +84,10 @@ module.exports = function init (app) {
       }, function handler (error, response, body) {
         if (!error && response.statusCode === 200) {
           var userinfo = response.headers['x-watson-userinfo'];
-          var serviceGUID = (userinfo.split('='))[1];
-
+          //var serviceGUID = (userinfo.split('='))[1];
+          //console.log('2 - inside passport !!!! ' + req.body.blueGUID);
+          //console.log(req.user);
+          var serviceGUID = req.body.blueGUID;
           // Need to set session variables as if the S2S
           // code had been executed
           req.session.serviceUrl = env.endpoints.language_translator;
