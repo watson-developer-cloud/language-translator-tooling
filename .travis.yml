@@ -36,3 +36,4 @@ script:
 branches:
  only:
    - open-source
+   - /^greenkeeper/.*$/
