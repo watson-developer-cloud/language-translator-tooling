@@ -1,4 +1,4 @@
-# Language Translator Tooling [![Build Status](https://travis-ci.org/watson-developer-cloud/language-translator-tooling.svg?branch=master)](https://travis-ci.org/watson-developer-cloud/language-translator-tooling)
+# Language Translator Tooling [![Build Status](https://travis-ci.org/watson-developer-cloud/language-translator-tooling.svg?branch=master)](https://travis-ci.org/watson-developer-cloud/language-translator-tooling) [![Greenkeeper badge](https://badges.greenkeeper.io/watson-developer-cloud/language-translator-tooling.svg)](https://greenkeeper.io/)
 
 #### demo: https://language-translator-tooling.mybluemix.net/login
 
