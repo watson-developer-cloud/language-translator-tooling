@@ -1,6 +1,6 @@
 # Language Translator Tooling [![Build Status](https://travis-ci.org/watson-developer-cloud/language-translator-tooling.svg?branch=master)](https://travis-ci.org/watson-developer-cloud/language-translator-tooling)
 
-#### demo: https://language-translator-tooling.mybluemix.net/login
+## DEPRECATED: this repo is no longer actively maintained. It can still be used as reference, but may contain outdated or unpatched code.
 
 This web application allows users to model and train [Language Translator](https://console.ng.bluemix.net/catalog/services/language-translator/) service instances.
 
